@@ -1,0 +1,261 @@
+{
+  "results": [
+    {
+      "hits": [
+        {
+          "title": "Introduction to Cloud Computing",
+          "partner": ["IBM"],
+          "partner_keys": ["IBM"],
+          "primary_description": "<p>Master the core concepts in Cloud Computing, from service and deployment models, to cloud architecture, security, new technologies, and possible careers.</p>",
+          "secondary_description": "<ul>\r\n<li>Essential characteristics and benefits of Cloud Computing e.g. pay-per-use, etc.</li>\r\n<li>Key Cloud Service Providers - IBM Cloud, Amazon Web Services (AWS), Alibaba Cloud, Microsoft Azure, Google Cloud Platform, etc.</li>\r\n<li>Common cloud service models (IaaS, PaaS, SaaS) and deployment models (Public, Private, Hybrid)</li>\r\n<li>Components of cloud infrastructure (Regions, Availability Zones, Data Centers, Virtualization, VMs, Bare Metal, Networking, and types of cloud storage (Direct Attached / Ephemeral, Persistant - File Storage, Block Storage, Object Storage, etc.) </li>\r\n<li>Emergent trends in cloud computing - including Hybrid MultiCloud, Containers, Microservices, Serverless, Cloud Native, DevOps, and Application Modernization</li>\r\n<li>Concepts in cloud security, encryption and monitoring</li>\r\n<li>Career options, cloud related professions, and their required skills</li>\r\n</ul>",
+          "tertiary_description": "<p><em>Please Note: Learners who successfully complete this IBM course can earn a skill badge —a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!</em></p>\r\n<p>This course introduces you to the core concepts of cloud computing. You will gain the foundational knowledge required for understanding cloud computing from both business and practitioner perspectives.</p>\r\n<p>You will learn about the definition and essential characteristics of cloud computing, its history, emerging trends, and the business case for cloud computing. You also learn about the various cloud service models (IaaS, PaaS, SaaS) and deployment models (Public Cloud, Private Cloud, Hybrid Cloud) and the key components of a cloud architecture (Virtualization, VMs, Storage, Networking, Containers).</p>\r\n<p>The course will also familiarize you with emerging trends associated with cloud including, Hybrid Multicloud, Microservices, Serverless, Cloud Native, DevOps, and Application Modernization. You learn about Cloud Security basics and will be introduced to some case studies and career opportunities related to cloud computing.</p>\r\n<p>This introduction to cloud computing course from IBM is suitable for anyone who is new to Cloud – whether you just want to understand the Cloud jargon, or are intending to start a career in a Cloud related profession.</p>",
+          "availability": ["Available now", "Upcoming"],
+          "subject": [
+            "Computer Science",
+            "Business & Management",
+            "Data Analysis & Statistics"
+          ],
+          "level": ["Introductory"],
+          "language": ["English"],
+          "product": "Course",
+          "program_type": [
+            "Professional Certificate",
+            "Professional Certificate",
+            "Professional Certificate"
+          ],
+          "staff": ["rav-ahuja"],
+          "availability_rank": 1,
+          "recent_enrollment_count": 16625,
+          "marketing_url": "https://www.edx.org/course/introduction-to-cloud-computing-6",
+          "card_image_url": "https://prod-discovery.edx-cdn.org/media/course/image/7a1a677e-be4c-4e1d-9630-2d60323db911-82b7d78fcc53.jpeg",
+          "uuid": "7a1a677e-be4c-4e1d-9630-2d60323db911",
+          "active_run_key": "course-v1:IBM+CC0101EN+2T2020",
+          "active_run_start": 1595347200,
+          "active_run_type": "Verified and Audit",
+          "owners": [
+            {
+              "key": "IBM",
+              "logoImageUrl": "https://prod-discovery.edx-cdn.org/organization/logos/87b07564-d569-4cfd-bee6-8b0a407acb73-dc33e4b5f353.png",
+              "name": "IBM"
+            }
+          ],
+          "course_titles": null,
+          "tags": ["Award-winning"],
+          "objectID": "course-7a1a677e-be4c-4e1d-9630-2d60323db911",
+          "_highlightResult": {
+            "title": {
+              "value": "Introduction to <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> <ais-highlight-0000000000>Computing</ais-highlight-0000000000>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["cloud", "computing"]
+            },
+            "partner": [
+              { "value": "IBM", "matchLevel": "none", "matchedWords": [] }
+            ],
+            "partner_keys": [
+              { "value": "IBM", "matchLevel": "none", "matchedWords": [] }
+            ],
+            "primary_description": {
+              "value": "<p>Master the core concepts in <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> <ais-highlight-0000000000>Computing</ais-highlight-0000000000>, from service and deployment models, to <ais-highlight-0000000000>cloud</ais-highlight-0000000000> architecture, security, new technologies, and possible careers.</p>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["cloud", "computing"]
+            },
+            "secondary_description": {
+              "value": "<ul>\r\n<li>Essential characteristics and benefits of <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> <ais-highlight-0000000000>Computing</ais-highlight-0000000000> e.g. pay-per-use, etc.</li>\r\n<li>Key <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> Service Providers - IBM <ais-highlight-0000000000>Cloud</ais-highlight-0000000000>, Amazon Web Services (AWS), Alibaba <ais-highlight-0000000000>Cloud</ais-highlight-0000000000>, Microsoft Azure, Google <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> Platform, etc.</li>\r\n<li>Common <ais-highlight-0000000000>cloud</ais-highlight-0000000000> service models (IaaS, PaaS, SaaS) and deployment models (Public, Private, Hybrid)</li>\r\n<li>Components of <ais-highlight-0000000000>cloud</ais-highlight-0000000000> infrastructure (Regions, Availability Zones, Data Centers, Virtualization, VMs, Bare Metal, Networking, and types of <ais-highlight-0000000000>cloud</ais-highlight-0000000000> storage (Direct Attached / Ephemeral, Persistant - File Storage, Block Storage, Object Storage, etc.) </li>\r\n<li>Emergent trends in <ais-highlight-0000000000>cloud</ais-highlight-0000000000> <ais-highlight-0000000000>computing</ais-highlight-0000000000> - including Hybrid MultiCloud, Containers, Microservices, Serverless, <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> Native, DevOps, and Application Modernization</li>\r\n<li>Concepts in <ais-highlight-0000000000>cloud</ais-highlight-0000000000> security, encryption and monitoring</li>\r\n<li>Career options, <ais-highlight-0000000000>cloud</ais-highlight-0000000000> related professions, and their required skills</li>\r\n</ul>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["cloud", "computing"]
+            },
+            "tertiary_description": {
+              "value": "<p><em>Please Note: Learners who successfully complete this IBM course can earn a skill badge —a detailed, verifiable and digital credential that profiles the knowledge and skills you’ve acquired in this course. Enroll to learn more, complete the course and claim your badge!</em></p>\r\n<p>This course introduces you to the core concepts of <ais-highlight-0000000000>cloud</ais-highlight-0000000000> <ais-highlight-0000000000>computing</ais-highlight-0000000000>. You will gain the foundational knowledge required for understanding <ais-highlight-0000000000>cloud</ais-highlight-0000000000> <ais-highlight-0000000000>computing</ais-highlight-0000000000> from both business and practitioner perspectives.</p>\r\n<p>You will learn about the definition and essential characteristics of <ais-highlight-0000000000>cloud</ais-highlight-0000000000> <ais-highlight-0000000000>computing</ais-highlight-0000000000>, its history, emerging trends, and the business case for <ais-highlight-0000000000>cloud</ais-highlight-0000000000> <ais-highlight-0000000000>computing</ais-highlight-0000000000>. You also learn about the various <ais-highlight-0000000000>cloud</ais-highlight-0000000000> service models (IaaS, PaaS, SaaS) and deployment models (Public <ais-highlight-0000000000>Cloud</ais-highlight-0000000000>, Private <ais-highlight-0000000000>Cloud</ais-highlight-0000000000>, Hybrid <ais-highlight-0000000000>Cloud</ais-highlight-0000000000>) and the key components of a <ais-highlight-0000000000>cloud</ais-highlight-0000000000> architecture (Virtualization, VMs, Storage, Networking, Containers).</p>\r\n<p>The course will also familiarize you with emerging trends associated with <ais-highlight-0000000000>cloud</ais-highlight-0000000000> including, Hybrid Multicloud, Microservices, Serverless, <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> Native, DevOps, and Application Modernization. You learn about <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> Security basics and will be introduced to some case studies and career opportunities related to <ais-highlight-0000000000>cloud</ais-highlight-0000000000> <ais-highlight-0000000000>computing</ais-highlight-0000000000>.</p>\r\n<p>This introduction to <ais-highlight-0000000000>cloud</ais-highlight-0000000000> <ais-highlight-0000000000>computing</ais-highlight-0000000000> course from IBM is suitable for anyone who is new to <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> – whether you just want to understand the <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> jargon, or are intending to start a career in a <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> related profession.</p>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["cloud", "computing"]
+            }
+          }
+        },
+        {
+          "title": "Cloud Computing Security",
+          "partner": [
+            "University of Maryland Global Campus",
+            "University System of Maryland"
+          ],
+          "partner_keys": ["UMGC", "USMx"],
+          "primary_description": "<p>Learn how to identify security issues in the cloud and industry-standard techniques and procedures to prevent and mitigate risks.</p>",
+          "secondary_description": "<ul>\n<li>Evaluate security issues with cloud infrastructure</li>\n<li>Implement cloud features to secure and harden the infrastructure</li>\n<li>Use tools to analyze system logs to detect possible security or performance problems</li>\n<li>Review case studies and standard documents on cloud security</li>\n<li>Understand the use of security policies as part of the overall security strategy of an organization</li>\n</ul>",
+          "tertiary_description": "<p>How do you protect the critical data that is increasingly being stored in the cloud? Learn how to build a security strategy that keeps data safe and mitigates risk.</p>\n<p>In this course, part of the Cloud Computing MicroMasters program, you will be introduced to industry best practices for cloud security and learn how to architect and configure security-related features in a cloud platform. Case studies and government standard documents will be reviewed to help ensure appropriate levels of security are implemented.</p>\n<p>You’ll develop the necessary skills to identify possible security issues in the cloud environment. You will also gain experience with tools and techniques that monitor the environment and help prevent security breaches such as monitoring logs and implementing appropriate security policies.</p>\n<p>This course is part of the Cloud Computing MicroMaster’s program from UMGC. Upon completion of the program and receipt of the verified MicroMaster’s certificate, learners may then transition into the full UMGC Master’s Program in Cloud Computing Architecture. See the MicroMasters program page for more information.</p>",
+          "availability": ["Available now", "Upcoming"],
+          "subject": ["Computer Science"],
+          "level": ["Intermediate"],
+          "language": ["English"],
+          "product": "Course",
+          "program_type": ["MicroMasters"],
+          "staff": [
+            "charif-el-mamouni",
+            "dr-jeff-tjiputra",
+            "patrick-appiah-kubi"
+          ],
+          "availability_rank": 1,
+          "recent_enrollment_count": 15496,
+          "marketing_url": "https://www.edx.org/course/cloud-computing-security",
+          "card_image_url": "https://prod-discovery.edx-cdn.org/media/course/image/16d67a7c-cb05-413e-aa3a-5f4a135d65b8-cdd45870e21d.jpg",
+          "uuid": "16d67a7c-cb05-413e-aa3a-5f4a135d65b8",
+          "active_run_key": "course-v1:USMx+CC617x+1T2021",
+          "active_run_start": 1618916400,
+          "active_run_type": "Verified and Audit",
+          "owners": [
+            {
+              "key": "UMGC",
+              "logoImageUrl": "https://prod-discovery.edx-cdn.org/organization/logos/22ffb18d-d59a-4ee4-a265-9db42b158476-a80bf4a32d19.png",
+              "name": "University of Maryland Global Campus"
+            },
+            {
+              "key": "USMx",
+              "logoImageUrl": "https://prod-discovery.edx-cdn.org/organization/logos/b9dc96da-b3fc-45a6-b6b7-b8e12eb79335-bc0488f1a5f8.png",
+              "name": "University System of Maryland"
+            }
+          ],
+          "course_titles": null,
+          "tags": [],
+          "objectID": "course-16d67a7c-cb05-413e-aa3a-5f4a135d65b8",
+          "_highlightResult": {
+            "title": {
+              "value": "<ais-highlight-0000000000>Cloud</ais-highlight-0000000000> <ais-highlight-0000000000>Computing</ais-highlight-0000000000> Security",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["cloud", "computing"]
+            },
+            "partner": [
+              {
+                "value": "University of Maryland Global Campus",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "University System of Maryland",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "partner_keys": [
+              { "value": "UMGC", "matchLevel": "none", "matchedWords": [] },
+              { "value": "USMx", "matchLevel": "none", "matchedWords": [] }
+            ],
+            "primary_description": {
+              "value": "<p>Learn how to identify security issues in the <ais-highlight-0000000000>cloud</ais-highlight-0000000000> and industry-standard techniques and procedures to prevent and mitigate risks.</p>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": ["cloud"]
+            },
+            "secondary_description": {
+              "value": "<ul>\n<li>Evaluate security issues with <ais-highlight-0000000000>cloud</ais-highlight-0000000000> infrastructure</li>\n<li>Implement <ais-highlight-0000000000>cloud</ais-highlight-0000000000> features to secure and harden the infrastructure</li>\n<li>Use tools to analyze system logs to detect possible security or performance problems</li>\n<li>Review case studies and standard documents on <ais-highlight-0000000000>cloud</ais-highlight-0000000000> security</li>\n<li>Understand the use of security policies as part of the overall security strategy of an organization</li>\n</ul>",
+              "matchLevel": "partial",
+              "fullyHighlighted": false,
+              "matchedWords": ["cloud"]
+            },
+            "tertiary_description": {
+              "value": "<p>How do you protect the critical data that is increasingly being stored in the <ais-highlight-0000000000>cloud</ais-highlight-0000000000>? Learn how to build a security strategy that keeps data safe and mitigates risk.</p>\n<p>In this course, part of the <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> <ais-highlight-0000000000>Computing</ais-highlight-0000000000> MicroMasters program, you will be introduced to industry best practices for <ais-highlight-0000000000>cloud</ais-highlight-0000000000> security and learn how to architect and configure security-related features in a <ais-highlight-0000000000>cloud</ais-highlight-0000000000> platform. Case studies and government standard documents will be reviewed to help ensure appropriate levels of security are implemented.</p>\n<p>You’ll develop the necessary skills to identify possible security issues in the <ais-highlight-0000000000>cloud</ais-highlight-0000000000> environment. You will also gain experience with tools and techniques that monitor the environment and help prevent security breaches such as monitoring logs and implementing appropriate security policies.</p>\n<p>This course is part of the <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> <ais-highlight-0000000000>Computing</ais-highlight-0000000000> MicroMaster’s program from UMGC. Upon completion of the program and receipt of the verified MicroMaster’s certificate, learners may then transition into the full UMGC Master’s Program in <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> <ais-highlight-0000000000>Computing</ais-highlight-0000000000> Architecture. See the MicroMasters program page for more information.</p>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["cloud", "computing"]
+            }
+          }
+        },
+        {
+          "title": "Cloud Computing for Enterprises",
+          "partner": [
+            "University of Maryland Global Campus",
+            "University System of Maryland"
+          ],
+          "partner_keys": ["UMGC", "USMx"],
+          "primary_description": "<p>Understand cloud computing technologies and how they can increase business productivity and effectiveness.</p>",
+          "secondary_description": "<ul>\n<li>Investigate various cloud computing technologies and providers including public, private and hybrid clouds</li>\n<li>Analyze the applications of cloud technologies to business</li>\n<li>Develop strategies to enhance organizational effectiveness using cloud technologies</li>\n<li>Evaluate the cost benefits of cloud adoption</li>\n</ul>",
+          "tertiary_description": "<p>Organizations are increasingly moving their critical information and assets to the cloud. Understand the technology, best practices, and economics of cloud computing, and the rewards and risks of this rush to the cloud.</p>\n<p>In this course, part of the Cloud Computing MicroMasters program, you will learn the essentials of cloud computing, including Infrastructure As A Service (IaaS), Platform As A Service (PaaS), Software As A Service (SaaS), and other \"X as a service\" platforms.</p>\n<p>You will explore how the cloud can support businesses by increasing productivity and effectiveness. </p>\n<p>This course is part of the Cloud Computing MicroMaster’s program from UMGC. Upon completion of the program and receipt of the verified MicroMaster’s certificate, learners may then transition into the full UMGC Master’s Program in Cloud Computing Architecture. See the MicroMasters program page for more information.</p>",
+          "availability": ["Available now", "Upcoming"],
+          "subject": ["Computer Science"],
+          "level": ["Intermediate"],
+          "language": ["English"],
+          "product": "Course",
+          "program_type": ["MicroMasters"],
+          "staff": ["patrick-appiah-kubi", "jarrod-jordan"],
+          "availability_rank": 1,
+          "recent_enrollment_count": 886,
+          "marketing_url": "https://www.edx.org/course/cloud-computing-for-enterprises-2",
+          "card_image_url": "https://prod-discovery.edx-cdn.org/media/course/image/8fe1362d-caea-437e-b5c8-e04ee680c9a7-59aa504324c1.jpg",
+          "uuid": "8fe1362d-caea-437e-b5c8-e04ee680c9a7",
+          "active_run_key": "course-v1:USMx+CC605x+1T2021",
+          "active_run_start": 1618920000,
+          "active_run_type": "Verified and Audit",
+          "owners": [
+            {
+              "key": "UMGC",
+              "logoImageUrl": "https://prod-discovery.edx-cdn.org/organization/logos/22ffb18d-d59a-4ee4-a265-9db42b158476-a80bf4a32d19.png",
+              "name": "University of Maryland Global Campus"
+            },
+            {
+              "key": "USMx",
+              "logoImageUrl": "https://prod-discovery.edx-cdn.org/organization/logos/b9dc96da-b3fc-45a6-b6b7-b8e12eb79335-bc0488f1a5f8.png",
+              "name": "University System of Maryland"
+            }
+          ],
+          "course_titles": null,
+          "tags": [],
+          "objectID": "course-8fe1362d-caea-437e-b5c8-e04ee680c9a7",
+          "_highlightResult": {
+            "title": {
+              "value": "<ais-highlight-0000000000>Cloud</ais-highlight-0000000000> <ais-highlight-0000000000>Computing</ais-highlight-0000000000> for Enterprises",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["cloud", "computing"]
+            },
+            "partner": [
+              {
+                "value": "University of Maryland Global Campus",
+                "matchLevel": "none",
+                "matchedWords": []
+              },
+              {
+                "value": "University System of Maryland",
+                "matchLevel": "none",
+                "matchedWords": []
+              }
+            ],
+            "partner_keys": [
+              { "value": "UMGC", "matchLevel": "none", "matchedWords": [] },
+              { "value": "USMx", "matchLevel": "none", "matchedWords": [] }
+            ],
+            "primary_description": {
+              "value": "<p>Understand <ais-highlight-0000000000>cloud</ais-highlight-0000000000> <ais-highlight-0000000000>computing</ais-highlight-0000000000> technologies and how they can increase business productivity and effectiveness.</p>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["cloud", "computing"]
+            },
+            "secondary_description": {
+              "value": "<ul>\n<li>Investigate various <ais-highlight-0000000000>cloud</ais-highlight-0000000000> <ais-highlight-0000000000>computing</ais-highlight-0000000000> technologies and providers including public, private and hybrid clouds</li>\n<li>Analyze the applications of <ais-highlight-0000000000>cloud</ais-highlight-0000000000> technologies to business</li>\n<li>Develop strategies to enhance organizational effectiveness using <ais-highlight-0000000000>cloud</ais-highlight-0000000000> technologies</li>\n<li>Evaluate the cost benefits of <ais-highlight-0000000000>cloud</ais-highlight-0000000000> adoption</li>\n</ul>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["cloud", "computing"]
+            },
+            "tertiary_description": {
+              "value": "<p>Organizations are increasingly moving their critical information and assets to the <ais-highlight-0000000000>cloud</ais-highlight-0000000000>. Understand the technology, best practices, and economics of <ais-highlight-0000000000>cloud</ais-highlight-0000000000> <ais-highlight-0000000000>computing</ais-highlight-0000000000>, and the rewards and risks of this rush to the <ais-highlight-0000000000>cloud</ais-highlight-0000000000>.</p>\n<p>In this course, part of the <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> <ais-highlight-0000000000>Computing</ais-highlight-0000000000> MicroMasters program, you will learn the essentials of <ais-highlight-0000000000>cloud</ais-highlight-0000000000> <ais-highlight-0000000000>computing</ais-highlight-0000000000>, including Infrastructure As A Service (IaaS), Platform As A Service (PaaS), Software As A Service (SaaS), and other \"X as a service\" platforms.</p>\n<p>You will explore how the <ais-highlight-0000000000>cloud</ais-highlight-0000000000> can support businesses by increasing productivity and effectiveness. </p>\n<p>This course is part of the <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> <ais-highlight-0000000000>Computing</ais-highlight-0000000000> MicroMaster’s program from UMGC. Upon completion of the program and receipt of the verified MicroMaster’s certificate, learners may then transition into the full UMGC Master’s Program in <ais-highlight-0000000000>Cloud</ais-highlight-0000000000> <ais-highlight-0000000000>Computing</ais-highlight-0000000000> Architecture. See the MicroMasters program page for more information.</p>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["cloud", "computing"]
+            }
+          }
+        }
+      ],
+      "nbHits": 57,
+      "page": 0,
+      "nbPages": 19,
+      "hitsPerPage": 3,
+      "exhaustiveNbHits": true,
+      "query": "cloud computing",
+      "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&hitsPerPage=3&clickAnalytics=true&query=cloud%20computing&facets=%5B%5D&tagFilters=",
+      "index": "product",
+      "queryID": "9b04a2e7763612de46a06f31f4ec7023",
+      "processingTimeMS": 1
+    }
+  ]
+}

@@ -1,0 +1,1112 @@
+{
+  "results": [
+    {
+      "hits": [],
+      "page": 0,
+      "nbHits": 0,
+      "nbPages": 0,
+      "hitsPerPage": 20,
+      "exhaustiveNbHits": true,
+      "processingTimeMS": 1,
+      "query": "nodejs",
+      "params": "query=nodejs&page=0&highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&optionalFilters=query%3Anodejs&facets=%5B%5D&tagFilters=",
+      "index": "DO_NOT_DELETE_PLACEHOLDER_INDEX_NAME"
+    },
+    {
+      "hits": [
+        {
+          "avgLearningHours": null,
+          "tagline": "Build Complete Web and Hybrid Mobile Solutions\nOffered by The Hong Kong University of Science and Technology",
+          "name": "Full-Stack Web Development with React",
+          "partnerLogos": [
+            "https://coursera-university-assets.s3.amazonaws.com/3a/37974779f7ad2a04626183c2f8951b/ustLogo.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [
+            "Arabic",
+            "French",
+            "German",
+            "Italian",
+            "Portuguese (Portugal)",
+            "Russian",
+            "Spanish",
+            "Vietnamese"
+          ],
+          "productDifficultyLevel": "Intermediate",
+          "audience": null,
+          "enrollments": 290221,
+          "partners": ["The Hong Kong University of Science and Technology"],
+          "language": "English",
+          "entityType": "SPECIALIZATION",
+          "numProductRatings": 9486,
+          "allLanguageCodes": [
+            "ar",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "es",
+            "vi"
+          ],
+          "avgProductRating": 4.733301707779885,
+          "skills": [
+            "Computer Programming",
+            "Computer Programming Tools",
+            "Databases",
+            "Distributed Computing Architecture",
+            "Javascript",
+            "Mobile Development",
+            "Mongodb",
+            "NoSQL",
+            "Other Programming Languages",
+            "Programming Principles",
+            "React (web framework)",
+            "Web",
+            "Web Design",
+            "Web Development"
+          ],
+          "imageUrl": "https://d15cw65ipctsrr.cloudfront.net/eb/cab7f07dd411e8991ff71ead974a6c/Slide1.png",
+          "isCourseFree": false,
+          "objectUrl": "/specializations/full-stack-react",
+          "objectID": "s12n~x8mwvRC8EeiB6Qq6n4PnfA",
+          "_snippetResult": {
+            "description": {
+              "value": "learn to implement NoSQL databases using MongoDB, work within a <ais-highlight-0000000000>Node.js</ais-highlight-0000000000> environment and Express framework, and communicate to the",
+              "matchLevel": "full"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "Full-Stack Web Development with React",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        },
+        {
+          "avgLearningHours": 21,
+          "tagline": "Offered by The Hong Kong University of Science and Technology",
+          "name": "Server-side Development with NodeJS, Express and MongoDB",
+          "partnerLogos": [
+            "https://coursera-university-assets.s3.amazonaws.com/3a/37974779f7ad2a04626183c2f8951b/ustLogo.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [
+            "Arabic",
+            "French",
+            "Portuguese (Portugal)",
+            "Italian",
+            "Vietnamese",
+            "German",
+            "Russian",
+            "Spanish"
+          ],
+          "productDifficultyLevel": "Intermediate",
+          "audience": null,
+          "enrollments": 105621,
+          "partners": ["The Hong Kong University of Science and Technology"],
+          "language": "English",
+          "entityType": "COURSE",
+          "numProductRatings": 2116,
+          "allLanguageCodes": [
+            "ar",
+            "fr",
+            "pt",
+            "it",
+            "vi",
+            "de",
+            "ru",
+            "es",
+            "en"
+          ],
+          "avgProductRating": 4.739603024574669,
+          "skills": [
+            "Databases",
+            "Computer Programming",
+            "Computer Programming Tools",
+            "Authentication",
+            "Server-Side",
+            "Mongodb",
+            "NoSQL",
+            "Distributed Computing Architecture"
+          ],
+          "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/c3/2ab0304cf611e7a143498f0a05f3b8/Logo.png",
+          "isCourseFree": false,
+          "objectUrl": "/learn/server-side-nodejs",
+          "objectID": "course~pn1erK4cEeaP-Q4_2QdcFg",
+          "_snippetResult": {
+            "description": {
+              "value": "overview of the Web protocols: HTTP and HTTPS. We examine <ais-highlight-0000000000>NodeJS</ais-highlight-0000000000> and <ais-highlight-0000000000>NodeJS</ais-highlight-0000000000> modules: Express for building web servers. On",
+              "matchLevel": "full"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "Server-side Development with <ais-highlight-0000000000>NodeJS</ais-highlight-0000000000>, Express and MongoDB",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            }
+          }
+        },
+        {
+          "avgLearningHours": null,
+          "tagline": "Build Complete Web and Hybrid Mobile Solutions\nOffered by The Hong Kong University of Science and Technology",
+          "name": "Full Stack Web Development with Angular",
+          "partnerLogos": [
+            "https://coursera-university-assets.s3.amazonaws.com/3a/37974779f7ad2a04626183c2f8951b/ustLogo.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [
+            "Arabic",
+            "French",
+            "German",
+            "Italian",
+            "Portuguese (Portugal)",
+            "Russian",
+            "Spanish",
+            "Vietnamese"
+          ],
+          "productDifficultyLevel": "Intermediate",
+          "audience": null,
+          "enrollments": 292182,
+          "partners": ["The Hong Kong University of Science and Technology"],
+          "language": "English",
+          "entityType": "SPECIALIZATION",
+          "numProductRatings": 9149,
+          "allLanguageCodes": [
+            "ar",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "pt",
+            "ru",
+            "es",
+            "vi"
+          ],
+          "avgProductRating": 4.746879440375995,
+          "skills": [
+            "Angular",
+            "Computer Programming",
+            "Computer Programming Tools",
+            "Databases",
+            "Distributed Computing Architecture",
+            "Human Computer Interaction",
+            "Mobile Development",
+            "Mongodb",
+            "NoSQL",
+            "Other Programming Languages",
+            "Programming Principles",
+            "User Experience",
+            "Web Design",
+            "Web Development"
+          ],
+          "imageUrl": "https://d15cw65ipctsrr.cloudfront.net/a4/d69e204d3a11e7bd76e991b22caa52/HKUST_full-stack-banner.jpg",
+          "isCourseFree": false,
+          "objectUrl": "/specializations/full-stack-mobile-app-development",
+          "objectID": "s12n~Tn_VM61TEeaH0xIrfa92QA",
+          "_snippetResult": {
+            "description": {
+              "value": "learn to implement NoSQL databases using MongoDB, work within a <ais-highlight-0000000000>Node.js</ais-highlight-0000000000> environment and Express framework, and communicate to the",
+              "matchLevel": "full"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "Full Stack Web Development with Angular",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        },
+        {
+          "avgLearningHours": 15,
+          "tagline": "Offered by Amazon Web Services",
+          "name": "Building Modern Node.js Applications on AWS",
+          "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/a4/7cd68a658840ddbb95c38cdd0bbc8e/aws-logo-icon-PNG-Transparent-Background.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [
+            "Arabic",
+            "French",
+            "Portuguese (Portugal)",
+            "Italian",
+            "Vietnamese",
+            "German",
+            "Russian",
+            "Spanish"
+          ],
+          "productDifficultyLevel": "Intermediate",
+          "audience": null,
+          "enrollments": 4574,
+          "partners": ["Amazon Web Services"],
+          "language": "English",
+          "entityType": "COURSE",
+          "numProductRatings": 27,
+          "allLanguageCodes": [
+            "ar",
+            "fr",
+            "pt",
+            "it",
+            "vi",
+            "de",
+            "ru",
+            "es",
+            "en"
+          ],
+          "avgProductRating": 4.37037037037037,
+          "skills": [
+            "Back-End Web Development",
+            "Sap Erp",
+            "Web Development",
+            "Full-Stack Web Development",
+            "Computer Programming Tools",
+            "Javascript",
+            "Python Programming",
+            "Amazon Web Services",
+            "Theoretical Computer Science",
+            "Microarchitecture",
+            "Programming Principles",
+            "Computer Programming",
+            "Node.Js",
+            "Cloud Computing",
+            "Software Architecture",
+            "Computer Architecture",
+            "Front And Back Ends",
+            "Software Engineering"
+          ],
+          "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/39/cbb4e8af6249d888066052f6bc0188/BMA-node-Thumb_Coursera.jpg",
+          "isCourseFree": false,
+          "objectUrl": "/learn/building-modern-node-applications-on-aws",
+          "objectID": "course~KddazMw6EeqRuA7PrA_HRw",
+          "_snippetResult": {
+            "description": {
+              "value": "nNote: There are three versions of this class, \"Building Modern <ais-highlight-0000000000>Node.js</ais-highlight-0000000000> Applications on AWS\" for <ais-highlight-0000000000>Node.js</ais-highlight-0000000000> developers, \"Building",
+              "matchLevel": "full"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "Building Modern <ais-highlight-0000000000>Node.js</ais-highlight-0000000000> Applications on AWS",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            }
+          }
+        },
+        {
+          "avgLearningHours": 1,
+          "tagline": "Offered by Coursera Project Network",
+          "name": "Modern JavaScript: ES6 Basics",
+          "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/89/a0db8f3ea3417ca90d4f3a4ca1d73e/coursera-projectnetwork-purplesquare.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [],
+          "productDifficultyLevel": "Intermediate",
+          "audience": null,
+          "enrollments": 11365,
+          "partners": ["Coursera Project Network"],
+          "language": "English",
+          "entityType": "RHYME PROJECT",
+          "numProductRatings": 422,
+          "allLanguageCodes": ["en"],
+          "avgProductRating": 4.440758293838862,
+          "skills": [
+            "Syntax",
+            "HTML and CSS",
+            "Computer Programming",
+            "Machine Learning",
+            "Deep Learning",
+            "Other Programming Languages",
+            "Web Development"
+          ],
+          "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/28/415a0930c541d2ab1044ed15980e48/wtwD646nQf8w2gV0QDDxpf5zDHOL43j6xWT-.png",
+          "isCourseFree": false,
+          "objectUrl": "/projects/modern-javascript-es6-basics",
+          "objectID": "course~QDDRU5R_Eeq5HA70JpILIw",
+          "_snippetResult": {
+            "description": {
+              "value": "In this project, you'll learn the most fundamental ES6 features and practice them with live hands-on examples. You",
+              "matchLevel": "none"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "Modern JavaScript: ES6 Basics",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        },
+        {
+          "avgLearningHours": 29,
+          "tagline": "Offered by Johns Hopkins University",
+          "name": "HTML, CSS, and Javascript for Web Developers",
+          "partnerLogos": [
+            "https://coursera-university-assets.s3.amazonaws.com/74/7ae340ec6911e5b395490a2a565172/JHU-Logo-Square-Mini_180px.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [
+            "Arabic",
+            "French",
+            "Portuguese (Portugal)",
+            "Italian",
+            "Vietnamese",
+            "Korean",
+            "German",
+            "Russian",
+            "Spanish"
+          ],
+          "productDifficultyLevel": "Mixed",
+          "audience": null,
+          "enrollments": 504026,
+          "partners": ["Johns Hopkins University"],
+          "language": "English",
+          "entityType": "COURSE",
+          "numProductRatings": 11115,
+          "allLanguageCodes": [
+            "ar",
+            "fr",
+            "pt",
+            "it",
+            "vi",
+            "ko",
+            "de",
+            "ru",
+            "es",
+            "en"
+          ],
+          "avgProductRating": 4.753936122357175,
+          "skills": [
+            "HTML5",
+            "CSS",
+            "Web Development",
+            "Programming Principles",
+            "Web",
+            "HTML and CSS",
+            "Ajax (Programming)",
+            "Html",
+            "Javascript",
+            "Web Design",
+            "Computer Programming"
+          ],
+          "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/83/e258e0532611e5a5072321239ff4d4/jhep-coursera-course4.png",
+          "isCourseFree": false,
+          "objectUrl": "/learn/html-css-javascript-for-web-developers",
+          "objectID": "course~vhLVVTe9EeWnxw5wP_KHTw",
+          "_snippetResult": {
+            "description": {
+              "value": "Do you realize that the only functionality of a web application that the user directly interacts with is through the",
+              "matchLevel": "none"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "HTML, CSS, and Javascript for Web Developers",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        },
+        {
+          "avgLearningHours": null,
+          "tagline": "\nOffered by Amazon Web Services",
+          "name": "AWS Fundamentals",
+          "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/a4/7cd68a658840ddbb95c38cdd0bbc8e/aws-logo-icon-PNG-Transparent-Background.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [
+            "Arabic",
+            "French",
+            "German",
+            "Italian",
+            "Korean",
+            "Portuguese (Portugal)",
+            "Russian",
+            "Spanish",
+            "Vietnamese"
+          ],
+          "productDifficultyLevel": "Beginner",
+          "audience": null,
+          "enrollments": 104438,
+          "partners": ["Amazon Web Services"],
+          "language": "English",
+          "entityType": "SPECIALIZATION",
+          "numProductRatings": 4735,
+          "allLanguageCodes": [
+            "ar",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "pt",
+            "ru",
+            "sk",
+            "es",
+            "vi"
+          ],
+          "avgProductRating": 4.535945089757126,
+          "skills": [
+            "Account Management",
+            "Accounting",
+            "Amazon Web Services",
+            "Audit",
+            "Big Data",
+            "Cloud Applications",
+            "Cloud Computing",
+            "Cloud Load Balancing",
+            "Cloud Storage",
+            "Computer Architecture",
+            "Computer Networking",
+            "Computer Programming",
+            "Cryptography",
+            "Data Analysis",
+            "Data Architecture",
+            "Data Management",
+            "Data Visualization",
+            "Database Administration",
+            "Database Application",
+            "Database Design",
+            "Database Theory",
+            "Databases",
+            "DevOps",
+            "Devops Tools",
+            "Extract, Transform, Load",
+            "Google Cloud Platform",
+            "Interactive Data Visualization",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Network Architecture",
+            "Network Model",
+            "Network Security",
+            "Networking Hardware",
+            "Operating Systems",
+            "Other Programming Languages",
+            "Sales",
+            "Security",
+            "Security Engineering",
+            "Security Strategy",
+            "Software Security",
+            "System Security",
+            "Theoretical Computer Science"
+          ],
+          "imageUrl": "https://d15cw65ipctsrr.cloudfront.net/f4/5219a4886e4feead04a706b73a9cd1/specialization_logo.png",
+          "isCourseFree": false,
+          "objectUrl": "/specializations/aws-fundamentals",
+          "objectID": "s12n~uIFDnGJWEeqyaA4BuXgjIw",
+          "_snippetResult": {
+            "description": {
+              "value": "This specialization gives current or aspiring IT professionals an overview of the features, benefits, and capabilities of Amazon Web Services",
+              "matchLevel": "none"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "AWS Fundamentals",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        },
+        {
+          "avgLearningHours": null,
+          "tagline": "Design, Develop, and Deploy Apps on GCP\nOffered by Google Cloud",
+          "name": "Developing Applications with Google Cloud Platform",
+          "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/4e/c2f4c0f4bb11e69a33576c875f4294/cloud-twitter-avatar.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [
+            "French",
+            "German",
+            "Japanese",
+            "Russian",
+            "Spanish"
+          ],
+          "productDifficultyLevel": "Intermediate",
+          "audience": null,
+          "enrollments": 497209,
+          "partners": ["Google Cloud"],
+          "language": "English",
+          "entityType": "SPECIALIZATION",
+          "numProductRatings": 39770,
+          "allLanguageCodes": ["en", "fr", "de", "ja", "ru", "es"],
+          "avgProductRating": 4.712021624339955,
+          "skills": [
+            "Application Programming Interfaces",
+            "Big Data",
+            "Cloud API",
+            "Cloud Applications",
+            "Cloud Computing",
+            "Cloud Infrastructure",
+            "Cloud Load Balancing",
+            "Cloud Storage",
+            "Computational Thinking",
+            "Computer Architecture",
+            "Computer Networking",
+            "Computer Programming",
+            "Continuous Integration",
+            "Data Management",
+            "Databases",
+            "DevOps",
+            "Distributed Computing Architecture",
+            "Full-Stack Web Development",
+            "Google App Engine",
+            "Google Cloud Platform",
+            "Kubernetes",
+            "Machine Learning",
+            "Software Architecture",
+            "Software As A Service",
+            "Software Engineering",
+            "Theoretical Computer Science",
+            "Web Development"
+          ],
+          "imageUrl": "https://d15cw65ipctsrr.cloudfront.net/97/80dde0cf3911e7837e118ae0ddfe24/course-4.jpg",
+          "isCourseFree": false,
+          "objectUrl": "/specializations/developing-apps-gcp",
+          "objectID": "s12n~LW33ur6XEeeEUBLRzofOfg",
+          "_snippetResult": {
+            "description": {
+              "value": "Learners can choose to complete labs in their favorite language: <ais-highlight-0000000000>Node.js</ais-highlight-0000000000>, Java, or Python.\\n\\nThis class is intended",
+              "matchLevel": "full"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "Developing Applications with Google Cloud Platform",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        },
+        {
+          "avgLearningHours": 2,
+          "tagline": "Offered by Coursera Project Network",
+          "name": "E-Commerce Payments Using Stripe and NodeJS",
+          "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/89/a0db8f3ea3417ca90d4f3a4ca1d73e/coursera-projectnetwork-purplesquare.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [],
+          "productDifficultyLevel": "Intermediate",
+          "audience": null,
+          "enrollments": 82,
+          "partners": ["Coursera Project Network"],
+          "language": "English",
+          "entityType": "RHYME PROJECT",
+          "numProductRatings": 0,
+          "allLanguageCodes": ["en"],
+          "avgProductRating": null,
+          "skills": [
+            "Software Engineering",
+            "Sales",
+            "Strategy and Operations",
+            "Finance",
+            "Cryptography",
+            "Front And Back Ends",
+            "Software Testing",
+            "Web Design",
+            "Payments",
+            "Computer Programming Tools",
+            "Project Management",
+            "Web Development",
+            "E-Commerce",
+            "Human Learning",
+            "User Experience",
+            "Human Computer Interaction"
+          ],
+          "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/c4/dcb77e96c7439bbcf4eb0982660c5a/nodeJS_payments.png",
+          "isCourseFree": false,
+          "objectUrl": "/projects/payments-stripe-nodejs",
+          "objectID": "course~pl4pce9nEeqfJg4kuZ4DTw",
+          "_snippetResult": {
+            "description": {
+              "value": "website which takes online payments using Stripe. You will use <ais-highlight-0000000000>NodeJS</ais-highlight-0000000000> to create the back-end of the website, and",
+              "matchLevel": "full"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "E-Commerce Payments Using Stripe and <ais-highlight-0000000000>NodeJS</ais-highlight-0000000000>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            }
+          }
+        },
+        {
+          "avgLearningHours": 1,
+          "tagline": "Offered by Coursera Project Network",
+          "name": "Containerize a full-stack NodeJS application in Docker",
+          "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/89/a0db8f3ea3417ca90d4f3a4ca1d73e/coursera-projectnetwork-purplesquare.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [],
+          "productDifficultyLevel": "Intermediate",
+          "audience": null,
+          "enrollments": 2304,
+          "partners": ["Coursera Project Network"],
+          "language": "English",
+          "entityType": "RHYME PROJECT",
+          "numProductRatings": 36,
+          "allLanguageCodes": ["en"],
+          "avgProductRating": 4.5,
+          "skills": [
+            "Theoretical Computer Science",
+            "Java Programming",
+            "NoSQL",
+            "Distributed Computing Architecture",
+            "Systems Design",
+            "Network Architecture",
+            "Databases",
+            "Computer Programming Tools",
+            "Node.Js",
+            "Computer Architecture",
+            "Computer Programming",
+            "Computational Logic",
+            "DevOps",
+            "Stack (Abstract Data Type)"
+          ],
+          "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/df/0ec688b11041eeb83070eb9bd73dc6/dockerfullstack.png",
+          "isCourseFree": false,
+          "objectUrl": "/projects/containerize-full-stack-nodejs-application-in-docker",
+          "objectID": "course~Hdkojt8GEeqIiw6yatktbw",
+          "_snippetResult": {
+            "description": {
+              "value": "In this 1-hour long project-based course on Intermediate Docker: Containerize a full-stack <ais-highlight-0000000000>NodeJS</ais-highlight-0000000000> application in Docker and",
+              "matchLevel": "full"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "Containerize a full-stack <ais-highlight-0000000000>NodeJS</ais-highlight-0000000000> application in Docker",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            }
+          }
+        },
+        {
+          "avgLearningHours": 2,
+          "tagline": "Offered by Coursera Project Network",
+          "name": "Build a Full-Stack Server for API Requests - NodeJS and Pug",
+          "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/89/a0db8f3ea3417ca90d4f3a4ca1d73e/coursera-projectnetwork-purplesquare.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [],
+          "productDifficultyLevel": "Intermediate",
+          "audience": null,
+          "enrollments": 182,
+          "partners": ["Coursera Project Network"],
+          "language": "English",
+          "entityType": "RHYME PROJECT",
+          "numProductRatings": 5,
+          "allLanguageCodes": ["en"],
+          "avgProductRating": 4,
+          "skills": [
+            "Web Development",
+            "Web Design",
+            "Computational Logic",
+            "Ordered Pair",
+            "Node.Js",
+            "HTML and CSS",
+            "Project Management",
+            "Software Engineering",
+            "Strategy and Operations",
+            "Javascript",
+            "Human Learning",
+            "Digital Signature",
+            "Computer Programming",
+            "Cryptography"
+          ],
+          "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/49/17c7d7a52745a9a276d920fd24d32c/Node---Final-Website.png",
+          "isCourseFree": false,
+          "objectUrl": "/projects/basic-server-nodejs",
+          "objectID": "course~iMEjM-9nEeqUYwo9GmEvDQ",
+          "_snippetResult": {
+            "description": {
+              "value": "for a specific city. We will learn how to use <ais-highlight-0000000000>NodeJS</ais-highlight-0000000000> to send API requests to Accuweather, and Pug and",
+              "matchLevel": "full"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "Build a Full-Stack Server for API Requests - <ais-highlight-0000000000>NodeJS</ais-highlight-0000000000> and Pug",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            }
+          }
+        },
+        {
+          "avgLearningHours": 2,
+          "tagline": "Offered by Coursera Project Network",
+          "name": "Generate API Documentation from Postman",
+          "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/89/a0db8f3ea3417ca90d4f3a4ca1d73e/coursera-projectnetwork-purplesquare.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [],
+          "productDifficultyLevel": "Beginner",
+          "audience": null,
+          "enrollments": 65,
+          "partners": ["Coursera Project Network"],
+          "language": "English",
+          "entityType": "RHYME PROJECT",
+          "numProductRatings": 4,
+          "allLanguageCodes": ["en"],
+          "avgProductRating": 4,
+          "skills": [
+            "Project Mine",
+            "Strategy and Operations",
+            "Application Development",
+            "Software Engineering",
+            "Project Management",
+            "Graphic Design",
+            "Command-Line Interface",
+            "Software Architecture",
+            "Ordered Pair",
+            "Computational Logic",
+            "Node.Js",
+            "Front And Back Ends",
+            "Theoretical Computer Science",
+            "Computer Graphics",
+            "Computer Programming Tools",
+            "Computer Programming"
+          ],
+          "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/59/e77307a3d64e22acf639e6b9a98988/Screenshot-2020-12-12-at-11.53.25-AM.png",
+          "isCourseFree": false,
+          "objectUrl": "/projects/generate-api-documentation-postman",
+          "objectID": "course~7YPAaDfNEeuFYg7AZmoFgw",
+          "_snippetResult": {
+            "description": {
+              "value": "postman collections , runner , and also create a backend server in <ais-highlight-0000000000>nodejs</ais-highlight-0000000000> to automate collection testing using the newman library and",
+              "matchLevel": "full"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "Generate API Documentation from Postman",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        },
+        {
+          "avgLearningHours": 1,
+          "tagline": "Offered by Coursera Project Network",
+          "name": "Build a RESTful API(Node.js) using AWS Lambda & API Gateway",
+          "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/89/a0db8f3ea3417ca90d4f3a4ca1d73e/coursera-projectnetwork-purplesquare.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [],
+          "productDifficultyLevel": "Beginner",
+          "audience": null,
+          "enrollments": 343,
+          "partners": ["Coursera Project Network"],
+          "language": "English",
+          "entityType": "RHYME PROJECT",
+          "numProductRatings": 15,
+          "allLanguageCodes": ["en"],
+          "avgProductRating": 3.933333333333333,
+          "skills": [
+            "Computational Logic",
+            "Ordered Pair",
+            "Theoretical Computer Science",
+            "Euler'S Totient Function",
+            "Software Engineering",
+            "Software Architecture",
+            "Application Programming Interfaces",
+            "Computer Programming",
+            "Representational State Transfer"
+          ],
+          "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/1c/d1501198004116a0b13cc128e3a77e/cloud-3843352_1920.jpg",
+          "isCourseFree": false,
+          "objectUrl": "/projects/aws-lambda-api-gateway-nodejs",
+          "objectID": "course~m_DPxeiWEeqR_BIjV6ihqw",
+          "_snippetResult": {
+            "description": {
+              "value": "In this 1-hour long project-based course, you will learn how to create a <ais-highlight-0000000000>node.js</ais-highlight-0000000000> RESTful API & launch",
+              "matchLevel": "full"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "Build a RESTful API(<ais-highlight-0000000000>Node.js</ais-highlight-0000000000>) using AWS Lambda & API Gateway",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            }
+          }
+        },
+        {
+          "avgLearningHours": 1,
+          "tagline": "Offered by Coursera Project Network",
+          "name": "Aprendiendo a hacer API con Node.JS",
+          "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/89/a0db8f3ea3417ca90d4f3a4ca1d73e/coursera-projectnetwork-purplesquare.png"
+          ],
+          "isPartOfCourseraPlus": true,
+          "subtitleLanguage": [],
+          "productDifficultyLevel": "Beginner",
+          "audience": null,
+          "enrollments": 716,
+          "partners": ["Coursera Project Network"],
+          "language": "Spanish",
+          "entityType": "RHYME PROJECT",
+          "numProductRatings": 39,
+          "allLanguageCodes": ["es"],
+          "avgProductRating": 4.282051282051282,
+          "skills": [
+            "Node.Js",
+            "Programming Principles",
+            "Computer Programming",
+            "Computer Programming Tools",
+            "Mobile Development",
+            "Javascript",
+            "Application Programming Interfaces"
+          ],
+          "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/2a/b2be6c784e4dd1b574797a968f3d6e/nodejs_logo.png",
+          "isCourseFree": false,
+          "objectUrl": "/projects/api-nodejs",
+          "objectID": "course~P3_RpN_ZEeqiLQ5Lp_T0Fw",
+          "_snippetResult": {
+            "description": {
+              "value": "En este proyecto de 1 hora, aprenderás a desarrollar una API con <ais-highlight-0000000000>NodeJS</ais-highlight-0000000000> y Express.\\n\\nAdemás, entenderás algunas buenas",
+              "matchLevel": "full"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "Aprendiendo a hacer API con <ais-highlight-0000000000>Node.JS</ais-highlight-0000000000>",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            }
+          }
+        },
+        {
+          "avgLearningHours": 9,
+          "tagline": "Offered by IBM",
+          "name": "Developing Cloud Apps with Node.js and React",
+          "partnerLogos": [
+            "http://coursera-university-assets.s3.amazonaws.com/bb/f5ced2bdd4437aa79f00eb1bf7fbf0/IBM-Logo-Blk---Square.png"
+          ],
+          "isPartOfCourseraPlus": false,
+          "subtitleLanguage": [],
+          "productDifficultyLevel": "Mixed",
+          "audience": null,
+          "enrollments": 1655,
+          "partners": ["IBM"],
+          "language": "English",
+          "entityType": "COURSE",
+          "numProductRatings": 14,
+          "allLanguageCodes": ["en"],
+          "avgProductRating": 4.071428571428571,
+          "skills": [
+            "Html",
+            "Javascript",
+            "Computer Programming",
+            "System Security",
+            "Software Architecture",
+            "Web Development",
+            "Programming Principles",
+            "Computer Architecture",
+            "Mathematics",
+            "Front-End Web Development",
+            "Algebra",
+            "Callback (Computer Programming)",
+            "Network Model",
+            "Operating Systems",
+            "Computer Networking",
+            "Writing",
+            "Full-Stack Web Development",
+            "Computer Programming Tools",
+            "Distributed Computing Architecture",
+            "Communication",
+            "Software Engineering",
+            "Back-End Web Development",
+            "Mathematical Theory & Analysis",
+            "Theoretical Computer Science"
+          ],
+          "imageUrl": "https://s3.amazonaws.com/coursera-course-photos/87/4d460d97de44dc9d3bfbe02eb7bbd1/CAD-4-Option-1.jpg",
+          "isCourseFree": false,
+          "objectUrl": "/learn/node-js",
+          "objectID": "course~Wes5CyteEeuuFA54JxI5OQ",
+          "_snippetResult": {
+            "description": {
+              "value": "ask, what is the relevance of developing cloud applications with <ais-highlight-0000000000>Node.js</ais-highlight-0000000000> and React? \\n\\nIn 2020, the Stack Overflow",
+              "matchLevel": "full"
+            }
+          },
+          "_highlightResult": {
+            "name": {
+              "value": "Developing Cloud Apps with <ais-highlight-0000000000>Node.js</ais-highlight-0000000000> and React",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            }
+          }
+        }
+      ],
+      "nbHits": 55,
+      "page": 0,
+      "nbPages": 4,
+      "hitsPerPage": 15,
+      "exhaustiveNbHits": true,
+      "query": "nodejs",
+      "params": "query=nodejs&hitsPerPage=15&page=0&highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&optionalFilters=query%3Anodejs&ruleContexts=%5B%22en%22%5D&facets=%5B%5D&tagFilters=&optionalFilters=%5B%5B%22facetObjectId%3As12n%7Ex8mwvRC8EeiB6Qq6n4PnfA%3Cscore%3D51%3E%22%2C%22facetObjectId%3Acourse%7Epn1erK4cEeaP-Q4_2QdcFg%3Cscore%3D50%3E%22%2C%22facetObjectId%3As12n%7ETn_VM61TEeaH0xIrfa92QA%3Cscore%3D49%3E%22%2C%22facetObjectId%3Acourse%7EKddazMw6EeqRuA7PrA_HRw%3Cscore%3D48%3E%22%2C%22facetObjectId%3Acourse%7EQDDRU5R_Eeq5HA70JpILIw%3Cscore%3D47%3E%22%2C%22facetObjectId%3Acourse%7EvhLVVTe9EeWnxw5wP_KHTw%3Cscore%3D46%3E%22%2C%22facetObjectId%3As12n%7EuIFDnGJWEeqyaA4BuXgjIw%3Cscore%3D45%3E%22%2C%22facetObjectId%3As12n%7ELW33ur6XEeeEUBLRzofOfg%3Cscore%3D44%3E%22%2C%22facetObjectId%3Acourse%7Epl4pce9nEeqfJg4kuZ4DTw%3Cscore%3D43%3E%22%2C%22facetObjectId%3Acourse%7EHdkojt8GEeqIiw6yatktbw%3Cscore%3D42%3E%22%2C%22facetObjectId%3Acourse%7EiMEjM-9nEeqUYwo9GmEvDQ%3Cscore%3D41%3E%22%2C%22facetObjectId%3Acourse%7E7YPAaDfNEeuFYg7AZmoFgw%3Cscore%3D40%3E%22%2C%22facetObjectId%3Acourse%7Em_DPxeiWEeqR_BIjV6ihqw%3Cscore%3D39%3E%22%5D%5D&filters=isCurrentlyLaunched%3Atrue",
+      "index": "prod_all_products_term_optimization",
+      "processingTimeMS": 6
+    },
+    {
+      "hits": [
+        {
+          "name": "nodejs",
+          "score": 10371,
+          "objectID": "nodejs",
+          "_highlightResult": {
+            "name": {
+              "value": "<ais-highlight-0000000000>nodejs</ais-highlight-0000000000>",
+              "matchLevel": "full",
+              "fullyHighlighted": true,
+              "matchedWords": ["nodejs"]
+            },
+            "score": {
+              "value": "10371",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        },
+        {
+          "name": "building modern node.js applications on aws",
+          "score": 6897,
+          "objectID": "building modern node.js applications on aws",
+          "_highlightResult": {
+            "name": {
+              "value": "building modern <ais-highlight-0000000000>node.js</ais-highlight-0000000000> applications on aws",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            },
+            "score": {
+              "value": "6897",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        },
+        {
+          "name": "aws: publish a nodejs website from scratch",
+          "score": 2623,
+          "objectID": "aws: publish a nodejs website from scratch",
+          "_highlightResult": {
+            "name": {
+              "value": "aws: publish a <ais-highlight-0000000000>nodejs</ais-highlight-0000000000> website from scratch",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            },
+            "score": {
+              "value": "2623",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        },
+        {
+          "name": "server-side development with nodejs, express and mongodb",
+          "score": 6365,
+          "objectID": "server-side development with nodejs, express and mongodb",
+          "_highlightResult": {
+            "name": {
+              "value": "server-side development with <ais-highlight-0000000000>nodejs</ais-highlight-0000000000>, express and mongodb",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            },
+            "score": {
+              "value": "6365",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        },
+        {
+          "name": "developing cloud apps with node.js and react",
+          "score": 4332,
+          "objectID": "developing cloud apps with node.js and react",
+          "_highlightResult": {
+            "name": {
+              "value": "developing cloud apps with <ais-highlight-0000000000>node.js</ais-highlight-0000000000> and react",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            },
+            "score": {
+              "value": "4332",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        },
+        {
+          "name": "containerize a full-stack nodejs application in docker",
+          "score": 2710,
+          "objectID": "containerize a full-stack nodejs application in docker",
+          "_highlightResult": {
+            "name": {
+              "value": "containerize a full-stack <ais-highlight-0000000000>nodejs</ais-highlight-0000000000> application in docker",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            },
+            "score": {
+              "value": "2710",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        },
+        {
+          "name": "build a restful api(node.js) using aws lambda & api gateway",
+          "score": 2398,
+          "objectID": "build a restful api(node.js) using aws lambda & api gateway",
+          "_highlightResult": {
+            "name": {
+              "value": "build a restful api(<ais-highlight-0000000000>node.js</ais-highlight-0000000000>) using aws lambda & api gateway",
+              "matchLevel": "full",
+              "fullyHighlighted": false,
+              "matchedWords": ["nodejs"]
+            },
+            "score": {
+              "value": "2398",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          }
+        }
+      ],
+      "nbHits": 13,
+      "page": 0,
+      "nbPages": 2,
+      "hitsPerPage": 7,
+      "exhaustiveNbHits": true,
+      "query": "nodejs",
+      "params": "query=nodejs&hitsPerPage=7&page=0&highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&optionalFilters=query%3Anodejs&facets=%5B%5D&tagFilters=",
+      "index": "test_suggestions",
+      "processingTimeMS": 1
+    }
+  ]
+}

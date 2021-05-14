@@ -1,0 +1,179 @@
+{
+  "courses": [
+    {
+      "title": "Python for Data Science and Machine Learning Bootcamp",
+      "summary": [
+				"Use Python for Data Science and Machine Learning",
+				"Use Spark for Big Data Analysis",
+				"Implement Machine Learning Algorithms"
+			],
+      "duration": "25 total hours",
+      "no_of_lectures": "165",
+      "level": "All Levels",
+      "instructor": ["Jose Portilla"],
+      "learn_url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+      "domain_type": "Machine Learning",
+      "price": "10,560",
+      "rating": "4.6",
+      "subscriber_count": "375647",
+      "provider": "Udemy",
+	  "image_url":"https://img-a.udemycdn.com/course/304x171/903744_8eb2.jpg?CvWz4mSpKrAC5PQ3yM6y4r2-q4yLrYktLeMaHH2EkJ5Xi_v6QzcvrNUIt_SM7uQUlG_P-H-rFqt4ztKjWc9BbS9bTOtIoUE2sFGSjv5YL2aw88vqPynoA67ndA"
+    },
+	{
+      "title": "The Data Science Course 2021: Complete Data Science Bootcamp",
+      "summary": ["The course provides the entire toolbox you need to become a data scientist",
+				"Statistical analysis, Python programming with NumPy, pandas, matplotlib, and Seaborn, Advanced statistical analysis, Tableau, TensorFlow"],
+      "duration": "29 total hours",
+      "no_of_lectures": "476",
+      "level": "All Levels",
+      "instructor": ["365 Careers"],
+      "learn_url": "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/",
+      "domain_type": "Machine Learning",
+      "price": "8640",
+      "rating": "4.5",
+      "subscriber_count": "325105",
+      "provider": "Udemy",
+	  "image_url":"https://img-a.udemycdn.com/course/304x171/1754098_e0df_3.jpg?aZOCNrDUiRwdLRAltC90RQ9tdV4_3vjXVUXr2MNGex38GdH3II5UjvcbK0KpLVhGAAkxJiE8UuOb1K0hwdIR50mydxR__lKIG_AkSWsoCYEp7iWL7-_WEgZQQaAFDw"
+    },
+	{
+      "title": "Introduction to Cloud Computing on Amazon AWS for Beginners",
+      "summary": [
+				"Learn general cloud computing concepts",
+				"Learn the basics of Amazon Web Services (AWS)",
+				"Gain an understanding of the fundamental systems on which the cloud is based"
+			],
+      "duration": "8 total hours",
+      "no_of_lectures": "92",
+      "level": "All Levels",
+      "instructor": ["Digital Cloud Training"],
+      "learn_url": "https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/",
+      "domain_type": "Cloud Computing",
+      "price": "1600",
+      "rating": "4.6",
+      "subscriber_count": "658000",
+      "provider": "Udemy",
+	  "image_url":"https://img-b.udemycdn.com/course/304x171/3329962_a6e7_4.jpg?secure=AxE3UFAnHb3L1jhB3l01gA%3D%3D%2C1620027920"
+    },
+	{
+      "title": "Distributed Systems & Cloud Computing with Java",
+      "summary": [
+				"Design and build massively Parallel Java Applications and Distributed Algorithms at Scale",
+				"Create efficient Cloud-based Software Systems for Low Latency, Fault Tolerance, High Availability and Performance",
+				"Master Software Architecture designed for the modern era of Cloud Computing"
+			],
+      "duration": "7.5 total hours",
+      "no_of_lectures": "51",
+      "level": "All Levels",
+      "instructor": ["Michael Pogrebinsky"],
+      "learn_url": "https://www.udemy.com/course/distributed-systems-cloud-computing-with-java/",
+      "domain_type": "Cloud Computing",
+      "price": "8640",
+      "rating": "4.6",
+      "subscriber_count": "8190",
+      "provider": "Udemy",
+	  "image_url":"https://img-a.udemycdn.com/course/304x171/2014026_14d3.jpg?cJgVUCeNm25aox3L0nGi_gBTZKwH0glSu5_OiHKq1MjuU4JrQpPoaqML7ikj1IZHCodroRyslu4XgL8FXjwiWnpUaZP2bifgvZzy9taQ-nEihbF4MlqKKEfWTuI"
+    },
+	{
+      "title": "Computer Networks Security from Scratch to Advanced",
+      "summary": [
+        "Introduction to Computer Networks",
+        "ISO/OSI Model (7 Layers)",
+        "TCP/IP Protocol Suite"
+      ],
+      "duration": "8 total hours",
+      "no_of_lectures": "51",
+      "level": "All Levels",
+      "instructor": ["Mohammad Adly"],
+      "learn_url": "https://www.udemy.com/course/computer-networks-security-from-scratch-to-advnaced/",
+      "domain_type": "Computer Networks",
+      "price": "8640",
+      "rating": "4.2",
+      "subscriber_count": "91907",
+      "provider": "Udemy",
+	  "image_url":"https://img-a.udemycdn.com/course/304x171/1227834_9d2f_5.jpg?eBlPvbpjSAipZTE-0HN_zdfFZ2CbXUo8ykgf0XDIFjTV8idC-VZz9iXA-Vq-ZYnVVqgXLt__dAD6Gdv14g0OKh77eb4Fu5wliUHgBs58OWwFd4wzREQ2GalCsZycsA"
+    },
+	{
+      "title": "Computer Network: Networking fundamentals + Wireshark Basics",
+      "summary": [
+        "You will understand how computer networks are designed, implemented and applied at each layer.",
+        "Structured Content with each section dedicated to unique aspect of Computer Networks",
+        "Clear and Crisp lectures on important concepts about Networks and Networking."
+      ],
+      "duration": "6.5 total hours",
+      "no_of_lectures": "40",
+      "level": "All Levels",
+      "instructor": ["Ramprasad Inamdar","Engineering Mentor"],
+      "learn_url": "https://www.udemy.com/course/computer-networks-course-networking-basics/",
+      "domain_type": "Computer Networks",
+      "price": "6400",
+      "rating": "4.3",
+      "subscriber_count": "3,693",
+      "provider": "Udemy",
+	  "image_url":"https://img-a.udemycdn.com/course/304x171/516872_68cd_2.jpg?HYOazAq62mmpL-6F3KjMRMqDxgq_7stLyAQ4syymOUiKA5JqWExcjn4i11UHu5yokqh61GX22CLQWDzdXdB1IIo6tGvb1a7FnG_4dc4BukF4OeqKYquV7fcC02HB"
+    },
+	{
+      "title": "Data Science: Machine Learning",
+      "summary": ["The basics of machine learning","How to perform cross-validation to avoid overtraining","Several popular machine learning algorithms","How to build a recommendation system","What is regularization and why it is useful?"],
+      "duration": "16 hours",
+      "no_of_lectures": "",
+      "level": "All level",
+      "instructor": ["Rafael Irizarry"],
+      "learn_url": "https://www.edx.org/course/data-science-machine-learning",
+      "domain_type": "Machine Learning",
+      "price": "7,328",
+      "rating": "4.3",
+      "subscriber_count": "38682",
+      "provider": "EDX",
+	  "image_url":"https://prod-discovery.edx-cdn.org/media/course/image/7e5958e8-d709-41ab-8f8c-4339f7a733c9-bbb3b4ab9455.jpg"
+    },
+	{
+      "title": "Machine Learning with Python: A Practical Introduction",
+      "summary": ["The difference between the two main types of machine learning methods: supervised and unsupervised","Supervised learning algorithms, including classification and regression"],
+      "duration": "20 total hours",
+      "no_of_lectures": "",
+      "level": "All level",
+      "instructor": ["Saeed Aghabozorgi"],
+      "learn_url": "https://www.edx.org/course/machine-learning-with-python-a-practical-introduct",
+      "domain_type": "Machine Learning",
+      "price": "7,328",
+      "rating": "4.3",
+      "subscriber_count": "98,398",
+      "provider": "EDX",
+	  "image_url":"https://prod-discovery.edx-cdn.org/media/course/image/34ea79ed-b0c4-4a12-aeb6-64a5b507607a-6d1e5b2a57c3.png"
+    },
+	{
+      "title": "Introduction to Cloud Computing",
+      "summary": ["Essential characteristics and benefits of Cloud Computing e.g. pay-per-use, etc.","Common cloud service models (IaaS, PaaS, SaaS) and deployment models","Concepts in cloud security, encryption and monitoring","Career options, cloud related professions, and their required skills"],
+      "duration": "12 total hours",
+      "no_of_lectures": "",
+      "level": "All level",
+      "instructor": ["Rav Ahuja"],
+      "learn_url": "https://www.edx.org/course/introduction-to-cloud-computing-6",
+      "domain_type": "Cloud Computing",
+      "price": "3,627",
+      "rating": "4",
+      "subscriber_count": "22,463",
+      "provider": "EDX",
+	  "image_url":"https://prod-discovery.edx-cdn.org/media/course/image/7a1a677e-be4c-4e1d-9630-2d60323db911-82b7d78fcc53.jpeg"
+    },
+	{
+      "title": "Cloud Computing Security",
+      "summary": ["Evaluate security issues with cloud infrastructure","Implement cloud features to secure and harden the infrastructure","Use tools to analyze system logs to detect possible security or performance problems","Review case studies and standard documents on cloud security"],
+      "duration": "64 total hours",
+      "no_of_lectures": "",
+      "level": "All level",
+      "instructor": [
+            "Charif Mamouni",
+            "Jeff Tjiputra",
+            "Patrick Appiah Kubi"
+          ],
+      "learn_url": "https://www.edx.org/course/cloud-computing-security",
+      "domain_type": "Cloud Computing",
+      "price": "22,131",
+      "rating": "4.5",
+      "subscriber_count": "33,210",
+      "provider": "EDX",
+	  "image_url":"https://prod-discovery.edx-cdn.org/media/course/image/16d67a7c-cb05-413e-aa3a-5f4a135d65b8-cdd45870e21d.jpg"
+    }
+  ]
+}

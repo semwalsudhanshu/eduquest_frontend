@@ -1,0 +1,14 @@
+#email,#password,#password2,#firstname,#lastname{
+    padding: 18.5px 14px !important;
+    width: 100%;
+    border: 0 !important;
+    height: 1.1876em !important;
+    margin: 0 !important;
+    display: block;
+}
+.alert{
+    margin-top: 30px;
+}
+a:hover{
+    color:blue !important;
+  }

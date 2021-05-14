@@ -1,0 +1,87 @@
+.jumbotron {
+  background: url("/src/assets/jumbotron.PNG") no-repeat center center;
+  height: 200px;
+  background-size: 100% 100%;
+}
+
+.filter {
+  background-color: white !important;
+}
+
+.btn {
+  color: white !important;
+  background-color: black !important;
+  border-color: black !important;
+}
+
+.course-card {
+  max-width: 1000px !important;
+  min-height: 800px !important;
+}
+
+.courseTitle {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 700 !important;
+  line-height: 1.2 !important;
+  letter-spacing: -0.02rem !important;
+  font-size: 1.6rem !important;
+}
+
+.courseHeadline {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 400 !important;
+  line-height: 1.4 !important;
+  font-size: 1.4rem !important;
+  max-width: 60rem;
+}
+.courseInstructor {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 400 !important;
+  line-height: 1.4 !important;
+  font-size: 1.2rem !important;
+}
+.appTitle {
+  font-weight: bold;
+  font-size: large;
+  font-family: sans-serif;
+  color: chocolate;
+  align-items: center;
+  text-decoration: underline;
+  margin: auto;
+  height: 400px !important;
+}
+.appImg {
+  height: 200px !important;
+  aspect-ratio: 2 !important;
+  max-width: 320px !important;
+  align-items: center;
+  margin: 20px auto 20px auto !important;
+}
+.cardHeader {
+  height: 200px !important;
+  border-bottom: groove 2px grey;
+}
+.highlightText {
+  color: black;
+}
+.instructors {
+  color: blue;
+  font-weight: bold;
+}
+.typography {
+  margin-bottom: 20px;
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+}
+.instructorHead{
+  margin-right:4px;
+  flex-direction: row;
+}
+a:hover{
+  color:honeydew !important;
+}
+.rightNavBarContainer{
+  flex-wrap: nowrap !important;
+  max-width: 100% !important;
+}

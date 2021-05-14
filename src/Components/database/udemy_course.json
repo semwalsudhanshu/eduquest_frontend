@@ -1,0 +1,1141 @@
+{
+  "count": 91,
+  "has_courses_for_org": true,
+  "courses": [
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/580876_a07a_2.jpg?yGf6sjrxOBhRRhq3vygrs4xa-Bb9PyuLmSokwr2gFxyHg-xVLA_X6EIUzu7VMKCzWiKFA6jw9UwN5OofqC4mQEQFCkhfUuMeT3ko7kc9Du0YurdyRAi7jDjX8fbe",
+      "num_reviews": 6814,
+      "_class": "course",
+      "num_subscribers": 22993,
+      "badges": [
+        {
+          "_class": "ds_course_badge",
+          "id": "8827528a70f44a59a75baf19519999df",
+          "badge_text": "Bestseller",
+          "badge_family": "bestseller",
+          "context_info": {
+            "category": {
+              "tracking_object_type": "cat",
+              "url": "/courses/it-and-software/",
+              "title": "IT & Software",
+              "id": 294
+            },
+            "subcategory": null,
+            "label": {
+              "tracking_object_type": "cl",
+              "title": "Computer Network",
+              "topic_channel_url": "/topic/computer-network/",
+              "id": 5190,
+              "url": "/topic/computer-network/",
+              "display_name": "Computer Network"
+            }
+          }
+        }
+      ],
+      "url": "/course/introduction-to-computer-networks/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Understand How Computer Networks Work",
+        "Know the Inner Workings of a Computer Network",
+        "Understand the Benefits of Computer Networks"
+      ],
+      "predictive_score": 5.7271805,
+      "tracking_id": "0bk0ktRjRuSNiAVUpGoQfQ",
+      "instructional_level_simple": "All Levels",
+      "visible_instructors": [
+        { "title": "Alton Hardin", "display_name": "Alton Hardin" }
+      ],
+      "learn_url": "/course/introduction-to-computer-networks/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/580876_a07a_2.jpg?yGf6sjrxOBhRRhq3vygrs4xa-Bb9PyuLmSokwr2gFxyHg-xVLA_X6EIUzu7VMKCzWiKFA6jw9UwN5OofqC4mQEQFCkhfUuMeT3ko7kc9Du0YurdyRAi7jDjX8fbe",
+      "content_info": "15 total hours",
+      "id": 580876,
+      "is_paid": true,
+      "title": "Introduction to Computer Networks for Non-Techies",
+      "relevancy_score": 1512.3167,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/580876_a07a_2.jpg?yGf6sjrxOBhRRhq3vygrs4xa-Bb9PyuLmSokwr2gFxyHg-xVLA_X6EIUzu7VMKCzWiKFA6jw9UwN5OofqC4mQEQFCkhfUuMeT3ko7kc9Du0YurdyRAi7jDjX8fbe",
+      "is_in_user_subscription": false,
+      "headline": "Learn the Fundamentals of <strong>Computer</strong> <strong>Networking</strong> for Non-Techies",
+      "rating": 4.526175,
+      "num_published_lectures": 181,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/580876_a07a_2.jpg?yGf6sjrxOBhRRhq3vygrs4xa-Bb9PyuLmSokwr2gFxyHg-xVLA_X6EIUzu7VMKCzWiKFA6jw9UwN5OofqC4mQEQFCkhfUuMeT3ko7kc9Du0YurdyRAi7jDjX8fbe",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/580876_a07a_2.jpg?yGf6sjrxOBhRRhq3vygrs4xa-Bb9PyuLmSokwr2gFxyHg-xVLA_X6EIUzu7VMKCzWiKFA6jw9UwN5OofqC4mQEQFCkhfUuMeT3ko7kc9Du0YurdyRAi7jDjX8fbe"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/3523460_e991_3.jpg?SnPKsWik_QS2Duu8A25wYkVa1aNOj8M9SLB5JmikBjhpfytdSjQWdS-fe8EeDVoBYoh_DWEFLHFgsR1HIEQldZD1tjcrT6ZVFWwSR-sMLiAY-sCtuEIUSkUBvbenzA",
+      "num_reviews": 177,
+      "_class": "course",
+      "num_subscribers": 1083,
+      "badges": [],
+      "url": "/course/world-of-computer-networking/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "How Computer Network operates on different layers of the What are TCP/IP and OSI model",
+        "Logical and hardware addressing of the devices (IP addresses and MAC addresses)",
+        "IP addressing, Network masks, Subnets and Subnetting"
+      ],
+      "predictive_score": 5.6051397,
+      "tracking_id": "JMUwfkX1T2yTV6JDTpwZKQ",
+      "instructional_level_simple": "All Levels",
+      "visible_instructors": [
+        { "title": "Bogdan Stashchuk", "display_name": "Bogdan Stashchuk" }
+      ],
+      "learn_url": "/course/world-of-computer-networking/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/3523460_e991_3.jpg?SnPKsWik_QS2Duu8A25wYkVa1aNOj8M9SLB5JmikBjhpfytdSjQWdS-fe8EeDVoBYoh_DWEFLHFgsR1HIEQldZD1tjcrT6ZVFWwSR-sMLiAY-sCtuEIUSkUBvbenzA",
+      "content_info": "14.5 total hours",
+      "id": 3523460,
+      "is_paid": true,
+      "title": "World of Computer Networking. Your CCNA starts here",
+      "relevancy_score": 1421.685,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/3523460_e991_3.jpg?SnPKsWik_QS2Duu8A25wYkVa1aNOj8M9SLB5JmikBjhpfytdSjQWdS-fe8EeDVoBYoh_DWEFLHFgsR1HIEQldZD1tjcrT6ZVFWwSR-sMLiAY-sCtuEIUSkUBvbenzA",
+      "is_in_user_subscription": false,
+      "headline": "Learn everything about Internet - Ethernet, IP, Routing, Switching, TCP, UDP, NAT, DHCP and DNS, prepare for CCNA exam",
+      "rating": 4.59542,
+      "num_published_lectures": 196,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/3523460_e991_3.jpg?SnPKsWik_QS2Duu8A25wYkVa1aNOj8M9SLB5JmikBjhpfytdSjQWdS-fe8EeDVoBYoh_DWEFLHFgsR1HIEQldZD1tjcrT6ZVFWwSR-sMLiAY-sCtuEIUSkUBvbenzA",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/3523460_e991_3.jpg?SnPKsWik_QS2Duu8A25wYkVa1aNOj8M9SLB5JmikBjhpfytdSjQWdS-fe8EeDVoBYoh_DWEFLHFgsR1HIEQldZD1tjcrT6ZVFWwSR-sMLiAY-sCtuEIUSkUBvbenzA"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/1227834_9d2f_5.jpg?eBlPvbpjSAipZTE-0HN_zdfFZ2CbXUo8ykgf0XDIFjTV8idC-VZz9iXA-Vq-ZYnVVqgXLt__dAD6Gdv14g0OKh77eb4Fu5wliUHgBs58OWwFd4wzREQ2GalCsZycsA",
+      "num_reviews": 2067,
+      "_class": "course",
+      "num_subscribers": 92023,
+      "badges": [],
+      "url": "/course/computer-networks-security-from-scratch-to-advnaced/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Introduction to Computer Networks",
+        "ISO/OSI Model (7 Layers)",
+        "TCP/IP Protocol Suite"
+      ],
+      "predictive_score": 5.5507097,
+      "tracking_id": "PVWUjxU-TheTQL10hMT7xw",
+      "instructional_level_simple": "All Levels",
+      "visible_instructors": [
+        { "title": "Mohammad Adly", "display_name": "Mohammad Adly" }
+      ],
+      "learn_url": "/course/computer-networks-security-from-scratch-to-advnaced/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/1227834_9d2f_5.jpg?eBlPvbpjSAipZTE-0HN_zdfFZ2CbXUo8ykgf0XDIFjTV8idC-VZz9iXA-Vq-ZYnVVqgXLt__dAD6Gdv14g0OKh77eb4Fu5wliUHgBs58OWwFd4wzREQ2GalCsZycsA",
+      "content_info": "8 total hours",
+      "id": 1227834,
+      "is_paid": true,
+      "title": "Computer Networks Security from Scratch to Advanced",
+      "relevancy_score": 1497.5251,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/1227834_9d2f_5.jpg?eBlPvbpjSAipZTE-0HN_zdfFZ2CbXUo8ykgf0XDIFjTV8idC-VZz9iXA-Vq-ZYnVVqgXLt__dAD6Gdv14g0OKh77eb4Fu5wliUHgBs58OWwFd4wzREQ2GalCsZycsA",
+      "is_in_user_subscription": false,
+      "headline": "<strong>Computer</strong> <strong>Networks</strong> Security Technologies and Tools for <strong>Network</strong> Admins and Cyber Security Officers",
+      "rating": 4.2380533,
+      "num_published_lectures": 51,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/1227834_9d2f_5.jpg?eBlPvbpjSAipZTE-0HN_zdfFZ2CbXUo8ykgf0XDIFjTV8idC-VZz9iXA-Vq-ZYnVVqgXLt__dAD6Gdv14g0OKh77eb4Fu5wliUHgBs58OWwFd4wzREQ2GalCsZycsA",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/1227834_9d2f_5.jpg?eBlPvbpjSAipZTE-0HN_zdfFZ2CbXUo8ykgf0XDIFjTV8idC-VZz9iXA-Vq-ZYnVVqgXLt__dAD6Gdv14g0OKh77eb4Fu5wliUHgBs58OWwFd4wzREQ2GalCsZycsA"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/1256694_18e1_4.jpg?sMWFR0N7xyDyNhCp1gxug0QKRd6n0lKZsCHVipeInVRpqC3pScJoAvu-fqBzbxLPhmi8jCozDKUsTQ6XGpWg14lFs2_18csSUjXJq_Lr8GOKcpqUczU0L4nq4fxWxw",
+      "num_reviews": 1272,
+      "_class": "course",
+      "num_subscribers": 13469,
+      "badges": [],
+      "url": "/course/it-networking-fundamentals/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Understand what a Network is all about",
+        "Learn about LANs and WANs",
+        "Understand OSI Model"
+      ],
+      "predictive_score": 5.5005274,
+      "tracking_id": "ov6zotTMSWKa-fjxRA1ekQ",
+      "instructional_level_simple": "All Levels",
+      "visible_instructors": [
+        { "title": "Syed Ali", "display_name": "Syed Ali" },
+        { "title": "Syed Raza", "display_name": "Syed Raza" },
+        {
+          "title": "ClayDesk E-learning",
+          "display_name": "ClayDesk E-learning"
+        }
+      ],
+      "learn_url": "/course/it-networking-fundamentals/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/1256694_18e1_4.jpg?sMWFR0N7xyDyNhCp1gxug0QKRd6n0lKZsCHVipeInVRpqC3pScJoAvu-fqBzbxLPhmi8jCozDKUsTQ6XGpWg14lFs2_18csSUjXJq_Lr8GOKcpqUczU0L4nq4fxWxw",
+      "content_info": "3 total hours",
+      "id": 1256694,
+      "is_paid": true,
+      "title": "IT Networking Fundamentals For Complete Beginners",
+      "relevancy_score": 1407.6691,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/1256694_18e1_4.jpg?sMWFR0N7xyDyNhCp1gxug0QKRd6n0lKZsCHVipeInVRpqC3pScJoAvu-fqBzbxLPhmi8jCozDKUsTQ6XGpWg14lFs2_18csSUjXJq_Lr8GOKcpqUczU0L4nq4fxWxw",
+      "is_in_user_subscription": false,
+      "headline": "Understand all the IT <strong>Networking</strong> Fundamentals and learn how the <strong>computer</strong> <strong>network</strong> functions",
+      "rating": 4.2862887,
+      "num_published_lectures": 25,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/1256694_18e1_4.jpg?sMWFR0N7xyDyNhCp1gxug0QKRd6n0lKZsCHVipeInVRpqC3pScJoAvu-fqBzbxLPhmi8jCozDKUsTQ6XGpWg14lFs2_18csSUjXJq_Lr8GOKcpqUczU0L4nq4fxWxw",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/1256694_18e1_4.jpg?sMWFR0N7xyDyNhCp1gxug0QKRd6n0lKZsCHVipeInVRpqC3pScJoAvu-fqBzbxLPhmi8jCozDKUsTQ6XGpWg14lFs2_18csSUjXJq_Lr8GOKcpqUczU0L4nq4fxWxw"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/516872_68cd_2.jpg?HYOazAq62mmpL-6F3KjMRMqDxgq_7stLyAQ4syymOUiKA5JqWExcjn4i11UHu5yokqh61GX22CLQWDzdXdB1IIo6tGvb1a7FnG_4dc4BukF4OeqKYquV7fcC02HB",
+      "num_reviews": 327,
+      "_class": "course",
+      "num_subscribers": 3089,
+      "badges": [],
+      "url": "/course/computer-networks-course-networking-basics/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "You will understand how computer networks are designed, implemented and applied at each layer.",
+        "Structured Content with each section dedicated to unique aspect of Computer Networks",
+        "Clear and Crisp lectures on important concepts about Networks and Networking."
+      ],
+      "predictive_score": 5.4670696,
+      "tracking_id": "lPMu4FY6RxG9g4PVzm75pg",
+      "instructional_level_simple": "All Levels",
+      "visible_instructors": [
+        { "title": "Engineering Mentor", "display_name": "Engineering Mentor" },
+        { "title": "Ramprasad Inamdar", "display_name": "Ramprasad Inamdar" }
+      ],
+      "learn_url": "/course/computer-networks-course-networking-basics/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/516872_68cd_2.jpg?HYOazAq62mmpL-6F3KjMRMqDxgq_7stLyAQ4syymOUiKA5JqWExcjn4i11UHu5yokqh61GX22CLQWDzdXdB1IIo6tGvb1a7FnG_4dc4BukF4OeqKYquV7fcC02HB",
+      "content_info": "6.5 total hours",
+      "id": 516872,
+      "is_paid": true,
+      "title": "Computer Network: Networking fundamentals + Wireshark Basics",
+      "relevancy_score": 1506.8511,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/516872_68cd_2.jpg?HYOazAq62mmpL-6F3KjMRMqDxgq_7stLyAQ4syymOUiKA5JqWExcjn4i11UHu5yokqh61GX22CLQWDzdXdB1IIo6tGvb1a7FnG_4dc4BukF4OeqKYquV7fcC02HB",
+      "is_in_user_subscription": false,
+      "headline": "Learn <strong>Computer</strong> <strong>Networks</strong> fundamentals and Wireshark Basics; Build Strong, Successful Foundation in <strong>Computer</strong> <strong>Networking</strong>",
+      "rating": 4.3520355,
+      "num_published_lectures": 40,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/516872_68cd_2.jpg?HYOazAq62mmpL-6F3KjMRMqDxgq_7stLyAQ4syymOUiKA5JqWExcjn4i11UHu5yokqh61GX22CLQWDzdXdB1IIo6tGvb1a7FnG_4dc4BukF4OeqKYquV7fcC02HB",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/516872_68cd_2.jpg?HYOazAq62mmpL-6F3KjMRMqDxgq_7stLyAQ4syymOUiKA5JqWExcjn4i11UHu5yokqh61GX22CLQWDzdXdB1IIo6tGvb1a7FnG_4dc4BukF4OeqKYquV7fcC02HB"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/3686292_d2ea.jpg?IJbWwjpB2ZIFvAX-1FgxJvgc8B2aPKbX6Yg_Oyd0qPrtNXxMZMM6ARiI_Br3pUPPozkFXLwCIDCGDtQzSIiHDX0iX4GxI-aOyw2l21eEtuxdG6l4n2h0pTZ9d3w",
+      "num_reviews": 215,
+      "_class": "course",
+      "num_subscribers": 21211,
+      "badges": [],
+      "url": "/course/computer-networking-basics-for-desktop-support-technicians/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Switches vs Hubs",
+        "The difference between half duplex and full duplex data transmissions",
+        "An explanation of IPv4 and IPv6"
+      ],
+      "predictive_score": 5.4387083,
+      "tracking_id": "PFsHK80bSMuKjpEOf25mTA",
+      "instructional_level_simple": "Beginner",
+      "visible_instructors": [
+        { "title": "John Courtenay", "display_name": "John Courtenay" }
+      ],
+      "learn_url": "/course/computer-networking-basics-for-desktop-support-technicians/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/3686292_d2ea.jpg?IJbWwjpB2ZIFvAX-1FgxJvgc8B2aPKbX6Yg_Oyd0qPrtNXxMZMM6ARiI_Br3pUPPozkFXLwCIDCGDtQzSIiHDX0iX4GxI-aOyw2l21eEtuxdG6l4n2h0pTZ9d3w",
+      "content_info": "31 total mins",
+      "id": 3686292,
+      "is_paid": true,
+      "title": "Computer Network Fundamentals- IT Helpdesk & Desktop Support",
+      "relevancy_score": 1472.9948,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/3686292_d2ea.jpg?IJbWwjpB2ZIFvAX-1FgxJvgc8B2aPKbX6Yg_Oyd0qPrtNXxMZMM6ARiI_Br3pUPPozkFXLwCIDCGDtQzSIiHDX0iX4GxI-aOyw2l21eEtuxdG6l4n2h0pTZ9d3w",
+      "is_in_user_subscription": false,
+      "headline": "Learn the basic fundamentals of <strong>computer</strong> <strong>networking</strong> & OSI model for desktop support and IT service desk technicians",
+      "rating": 4.120965,
+      "num_published_lectures": 14,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/3686292_d2ea.jpg?IJbWwjpB2ZIFvAX-1FgxJvgc8B2aPKbX6Yg_Oyd0qPrtNXxMZMM6ARiI_Br3pUPPozkFXLwCIDCGDtQzSIiHDX0iX4GxI-aOyw2l21eEtuxdG6l4n2h0pTZ9d3w",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/3686292_d2ea.jpg?IJbWwjpB2ZIFvAX-1FgxJvgc8B2aPKbX6Yg_Oyd0qPrtNXxMZMM6ARiI_Br3pUPPozkFXLwCIDCGDtQzSIiHDX0iX4GxI-aOyw2l21eEtuxdG6l4n2h0pTZ9d3w"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/2338192_0d2f_2.jpg?lxt5mX0Ub_HhKehqd7dlUvrcwMhsD9DFLM14bX9deRdOaiNNtvuqaDv1SNYtBdIoZ7nR2vJ2CLT-x9aCV-dQLGOfNbPNDPWdSAmQSNajnqhnQh9SbI2UDLYjQkhiBA",
+      "num_reviews": 156,
+      "_class": "course",
+      "num_subscribers": 3678,
+      "badges": [],
+      "url": "/course/computer-networks-for-beginners-it-networking-fundamentals/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Introduction to computer networks",
+        "Networking devices like switches",
+        "Learn about LANs and WANs"
+      ],
+      "predictive_score": 5.430767,
+      "tracking_id": "NnOaG7MHQmessgEMjWlYkw",
+      "instructional_level_simple": "Beginner",
+      "visible_instructors": [
+        {
+          "title": "Edoreal Learning Solutions",
+          "display_name": "Edoreal Learning Solutions"
+        }
+      ],
+      "learn_url": "/course/computer-networks-for-beginners-it-networking-fundamentals/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/2338192_0d2f_2.jpg?lxt5mX0Ub_HhKehqd7dlUvrcwMhsD9DFLM14bX9deRdOaiNNtvuqaDv1SNYtBdIoZ7nR2vJ2CLT-x9aCV-dQLGOfNbPNDPWdSAmQSNajnqhnQh9SbI2UDLYjQkhiBA",
+      "content_info": "4 total hours",
+      "id": 2338192,
+      "is_paid": true,
+      "title": "Computer Networks For Beginners | IT Networking Fundamentals",
+      "relevancy_score": 1434.328,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/2338192_0d2f_2.jpg?lxt5mX0Ub_HhKehqd7dlUvrcwMhsD9DFLM14bX9deRdOaiNNtvuqaDv1SNYtBdIoZ7nR2vJ2CLT-x9aCV-dQLGOfNbPNDPWdSAmQSNajnqhnQh9SbI2UDLYjQkhiBA",
+      "is_in_user_subscription": false,
+      "headline": "Basics of <strong>networks</strong> and its introduction",
+      "rating": 4.119147,
+      "num_published_lectures": 49,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/2338192_0d2f_2.jpg?lxt5mX0Ub_HhKehqd7dlUvrcwMhsD9DFLM14bX9deRdOaiNNtvuqaDv1SNYtBdIoZ7nR2vJ2CLT-x9aCV-dQLGOfNbPNDPWdSAmQSNajnqhnQh9SbI2UDLYjQkhiBA",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/2338192_0d2f_2.jpg?lxt5mX0Ub_HhKehqd7dlUvrcwMhsD9DFLM14bX9deRdOaiNNtvuqaDv1SNYtBdIoZ7nR2vJ2CLT-x9aCV-dQLGOfNbPNDPWdSAmQSNajnqhnQh9SbI2UDLYjQkhiBA"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/702798_b2da_2.jpg?o7GrKLDs0dZg7pxHr8C0Y9uvcTu9IhRVV8a6v7vB7tOqxX3bv4sdt8fhqeOQLc5fNePWrnag20aKddWiX41r-OtVg2NrtzH8XDFAalVbB1z_tC86ziP0BxmRmCXk",
+      "num_reviews": 212,
+      "_class": "course",
+      "num_subscribers": 1769,
+      "badges": [],
+      "url": "/course/new-2016-networking-fundamentals-for-beginners/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "This courses address Local Area Networks (LANs), network definition using the OSI model, wired and wireless networks, Internet Protocol (IP), TCP/IP in the command line, networking services, wide area networks (WANs), and much more",
+        "Understanding Local Area Networks: Learn about local area networks (LANs) including network devices, data transfer, and types of LANs. Explore network topologies and access methods. Compare peer-to-peer and client/server network models.",
+        " Defining Networks with the OSI Model. ​Get to know the OSI model, and explore switches. Review the layers in the OSI and TCP/IP models, plus review different types of switches."
+      ],
+      "predictive_score": 5.427268,
+      "tracking_id": "srKQZD1QRqOgbsC-nC_ATQ",
+      "instructional_level_simple": "All Levels",
+      "visible_instructors": [
+        { "title": "Melbourne Gregory", "display_name": "Melbourne Gregory" }
+      ],
+      "learn_url": "/course/new-2016-networking-fundamentals-for-beginners/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/702798_b2da_2.jpg?o7GrKLDs0dZg7pxHr8C0Y9uvcTu9IhRVV8a6v7vB7tOqxX3bv4sdt8fhqeOQLc5fNePWrnag20aKddWiX41r-OtVg2NrtzH8XDFAalVbB1z_tC86ziP0BxmRmCXk",
+      "content_info": "2 total hours",
+      "id": 702798,
+      "is_paid": true,
+      "title": "Computer Network: IT Networking Fundamentals 2016",
+      "relevancy_score": 1436.2804,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/702798_b2da_2.jpg?o7GrKLDs0dZg7pxHr8C0Y9uvcTu9IhRVV8a6v7vB7tOqxX3bv4sdt8fhqeOQLc5fNePWrnag20aKddWiX41r-OtVg2NrtzH8XDFAalVbB1z_tC86ziP0BxmRmCXk",
+      "is_in_user_subscription": false,
+      "headline": "Learn <strong>Network</strong> and <strong>Computer</strong> Systems and begin a career with a $66,000 annual salary",
+      "rating": 4.2522345,
+      "num_published_lectures": 16,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/702798_b2da_2.jpg?o7GrKLDs0dZg7pxHr8C0Y9uvcTu9IhRVV8a6v7vB7tOqxX3bv4sdt8fhqeOQLc5fNePWrnag20aKddWiX41r-OtVg2NrtzH8XDFAalVbB1z_tC86ziP0BxmRmCXk",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/702798_b2da_2.jpg?o7GrKLDs0dZg7pxHr8C0Y9uvcTu9IhRVV8a6v7vB7tOqxX3bv4sdt8fhqeOQLc5fNePWrnag20aKddWiX41r-OtVg2NrtzH8XDFAalVbB1z_tC86ziP0BxmRmCXk"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/1299624_e9d1_4.jpg?aahWY6IDdCPnQpQgALcQklYiZox7JwSDOZ2gLEk_DOy9ZspyiQrrfRMBYOes2nFEjrAcEGSRSU9TVXL9DpaEWWabV3Dpmhg-NH9Kt1Llw2VbUtuyB8FkSVxIMmm6tw",
+      "num_reviews": 232,
+      "_class": "course",
+      "num_subscribers": 782,
+      "badges": [],
+      "url": "/course/network-cabling/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Splice, Cut, and Install Data Wiring onto Jacks",
+        "Successfuly Install RJ45 Connectors onto Ethernet Cables",
+        "Properly Test All Cables / Connections for Signal"
+      ],
+      "predictive_score": 5.4246554,
+      "tracking_id": "bhOqildmS8u11NYgARw5tQ",
+      "instructional_level_simple": "Beginner",
+      "visible_instructors": [
+        { "title": "Matt Thomas", "display_name": "Matt Thomas" }
+      ],
+      "learn_url": "/course/network-cabling/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/1299624_e9d1_4.jpg?aahWY6IDdCPnQpQgALcQklYiZox7JwSDOZ2gLEk_DOy9ZspyiQrrfRMBYOes2nFEjrAcEGSRSU9TVXL9DpaEWWabV3Dpmhg-NH9Kt1Llw2VbUtuyB8FkSVxIMmm6tw",
+      "content_info": "41 total mins",
+      "id": 1299624,
+      "is_paid": true,
+      "title": "Computer Network Cabling: Ethernet Wiring Infrastructure",
+      "relevancy_score": 1478.8246,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/1299624_e9d1_4.jpg?aahWY6IDdCPnQpQgALcQklYiZox7JwSDOZ2gLEk_DOy9ZspyiQrrfRMBYOes2nFEjrAcEGSRSU9TVXL9DpaEWWabV3Dpmhg-NH9Kt1Llw2VbUtuyB8FkSVxIMmm6tw",
+      "is_in_user_subscription": false,
+      "headline": "The Physical Side of <strong>Computer</strong> <strong>Networking</strong>; Wire Ethernet Cables from Scratch and Master the Fundamentals of RJ-45 Ports.",
+      "rating": 4.530488,
+      "num_published_lectures": 21,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/1299624_e9d1_4.jpg?aahWY6IDdCPnQpQgALcQklYiZox7JwSDOZ2gLEk_DOy9ZspyiQrrfRMBYOes2nFEjrAcEGSRSU9TVXL9DpaEWWabV3Dpmhg-NH9Kt1Llw2VbUtuyB8FkSVxIMmm6tw",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/1299624_e9d1_4.jpg?aahWY6IDdCPnQpQgALcQklYiZox7JwSDOZ2gLEk_DOy9ZspyiQrrfRMBYOes2nFEjrAcEGSRSU9TVXL9DpaEWWabV3Dpmhg-NH9Kt1Llw2VbUtuyB8FkSVxIMmm6tw"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/3358774_d446.jpg?2Jk0u3JP9PSAn9o7V1mwT1K1_VqZWkXZL-u95_zi8J3dqASbttYqbzmdB2U7FKFMD2jDk8a9A5lKB4HRyt5O_mGiIITckG9p1LHo7s-cTkpKj18UJCOdhG0gtbo",
+      "num_reviews": 51,
+      "_class": "course",
+      "num_subscribers": 196,
+      "badges": [],
+      "url": "/course/learn-fundamentals-of-networks-from-scratch/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Different terminologies used in the field of Computer Networking.",
+        "Networking transmission media and there types",
+        "Protocol Stacks used for Networking Industry"
+      ],
+      "predictive_score": 5.419966,
+      "tracking_id": "-LekDRTKSzSISdjAGOYWaw",
+      "instructional_level_simple": "Beginner",
+      "visible_instructors": [
+        { "title": "Anchal Kamra", "display_name": "Anchal Kamra" },
+        {
+          "title": "Gursimran Kaur Bakshi",
+          "display_name": "Gursimran Kaur Bakshi"
+        }
+      ],
+      "learn_url": "/course/learn-fundamentals-of-networks-from-scratch/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/3358774_d446.jpg?2Jk0u3JP9PSAn9o7V1mwT1K1_VqZWkXZL-u95_zi8J3dqASbttYqbzmdB2U7FKFMD2jDk8a9A5lKB4HRyt5O_mGiIITckG9p1LHo7s-cTkpKj18UJCOdhG0gtbo",
+      "content_info": "5 total hours",
+      "id": 3358774,
+      "is_paid": true,
+      "title": "IT Networking Fundamentals basic level(Computer Networking)",
+      "relevancy_score": 1482.3882,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/3358774_d446.jpg?2Jk0u3JP9PSAn9o7V1mwT1K1_VqZWkXZL-u95_zi8J3dqASbttYqbzmdB2U7FKFMD2jDk8a9A5lKB4HRyt5O_mGiIITckG9p1LHo7s-cTkpKj18UJCOdhG0gtbo",
+      "is_in_user_subscription": false,
+      "headline": "Learn all the Fundamentals of <strong>Computer</strong> <strong>Networking</strong> and how systems communicate in <strong>Network</strong>",
+      "rating": 3.9516401,
+      "num_published_lectures": 22,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/3358774_d446.jpg?2Jk0u3JP9PSAn9o7V1mwT1K1_VqZWkXZL-u95_zi8J3dqASbttYqbzmdB2U7FKFMD2jDk8a9A5lKB4HRyt5O_mGiIITckG9p1LHo7s-cTkpKj18UJCOdhG0gtbo",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/3358774_d446.jpg?2Jk0u3JP9PSAn9o7V1mwT1K1_VqZWkXZL-u95_zi8J3dqASbttYqbzmdB2U7FKFMD2jDk8a9A5lKB4HRyt5O_mGiIITckG9p1LHo7s-cTkpKj18UJCOdhG0gtbo"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/1569334_3bf6_3.jpg?Con0ZAAyznEc7Ww90tjb4ZEZ5pGDKd5mdbIW1wtG3KyOKWwVN1x2eq4o9mtoBKEnbnYUfiWdDTxViMYEEz9G23E_nD7a9CpOHL2jS8Nl-Dv9tF_jlxNY0Q4EXTqzFA",
+      "num_reviews": 172,
+      "_class": "course",
+      "num_subscribers": 4869,
+      "badges": [],
+      "url": "/course/introduction-to-computer-networks-for-qa-testers/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "To understand the concept of OSI model at Computer Networks"
+      ],
+      "predictive_score": 5.4174123,
+      "tracking_id": "4vdN4S_ASTSuYqR1YuPQKg",
+      "instructional_level_simple": "Beginner",
+      "visible_instructors": [
+        { "title": "Alik Feld", "display_name": "Alik Feld" }
+      ],
+      "learn_url": "/course/introduction-to-computer-networks-for-qa-testers/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/1569334_3bf6_3.jpg?Con0ZAAyznEc7Ww90tjb4ZEZ5pGDKd5mdbIW1wtG3KyOKWwVN1x2eq4o9mtoBKEnbnYUfiWdDTxViMYEEz9G23E_nD7a9CpOHL2jS8Nl-Dv9tF_jlxNY0Q4EXTqzFA",
+      "content_info": "1.5 total hours",
+      "id": 1569334,
+      "is_paid": true,
+      "title": "Introduction to Computer Networks for QA Testers",
+      "relevancy_score": 1499.4481,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/1569334_3bf6_3.jpg?Con0ZAAyznEc7Ww90tjb4ZEZ5pGDKd5mdbIW1wtG3KyOKWwVN1x2eq4o9mtoBKEnbnYUfiWdDTxViMYEEz9G23E_nD7a9CpOHL2jS8Nl-Dv9tF_jlxNY0Q4EXTqzFA",
+      "is_in_user_subscription": false,
+      "headline": "The concept of OSI Model in <strong>Computer</strong> <strong>Networks</strong> for QA SW Testing",
+      "rating": 4.267928,
+      "num_published_lectures": 11,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/1569334_3bf6_3.jpg?Con0ZAAyznEc7Ww90tjb4ZEZ5pGDKd5mdbIW1wtG3KyOKWwVN1x2eq4o9mtoBKEnbnYUfiWdDTxViMYEEz9G23E_nD7a9CpOHL2jS8Nl-Dv9tF_jlxNY0Q4EXTqzFA",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/1569334_3bf6_3.jpg?Con0ZAAyznEc7Ww90tjb4ZEZ5pGDKd5mdbIW1wtG3KyOKWwVN1x2eq4o9mtoBKEnbnYUfiWdDTxViMYEEz9G23E_nD7a9CpOHL2jS8Nl-Dv9tF_jlxNY0Q4EXTqzFA"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/2319478_b18c_2.jpg?yD22aaHaHe8W7_LxmwpJPqFD2cIWSgXW7gJvcJW4_s3SdiuMk6o2MaaGhYp9mBWd1FFI0aV07dqkoufznrUsjWr1SGZs96WO3-6hyVlMRxEshxccauI5_lYcIhMkLg",
+      "num_reviews": 39,
+      "_class": "course",
+      "num_subscribers": 2882,
+      "badges": [],
+      "url": "/course/computer-networks/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Types of networks (size, topology)",
+        "Cables in computer networks",
+        "TCP/IP architecture & ISO/OSI model"
+      ],
+      "predictive_score": 5.400157,
+      "tracking_id": "E6dcWPrHR2W5XamJ4BNHfQ",
+      "instructional_level_simple": "All Levels",
+      "visible_instructors": [
+        {
+          "title": "Luke's Programming School",
+          "display_name": "Luke's Programming School"
+        }
+      ],
+      "learn_url": "/course/computer-networks/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/2319478_b18c_2.jpg?yD22aaHaHe8W7_LxmwpJPqFD2cIWSgXW7gJvcJW4_s3SdiuMk6o2MaaGhYp9mBWd1FFI0aV07dqkoufznrUsjWr1SGZs96WO3-6hyVlMRxEshxccauI5_lYcIhMkLg",
+      "content_info": "1 total hour",
+      "id": 2319478,
+      "is_paid": true,
+      "title": "Introduction to Computer Networks",
+      "relevancy_score": 1524.2383,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/2319478_b18c_2.jpg?yD22aaHaHe8W7_LxmwpJPqFD2cIWSgXW7gJvcJW4_s3SdiuMk6o2MaaGhYp9mBWd1FFI0aV07dqkoufznrUsjWr1SGZs96WO3-6hyVlMRxEshxccauI5_lYcIhMkLg",
+      "is_in_user_subscription": false,
+      "headline": "Learn everything about <strong>Computer</strong> <strong>Networks</strong>, in a fast & engaging way!",
+      "rating": 4.1747394,
+      "num_published_lectures": 10,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/2319478_b18c_2.jpg?yD22aaHaHe8W7_LxmwpJPqFD2cIWSgXW7gJvcJW4_s3SdiuMk6o2MaaGhYp9mBWd1FFI0aV07dqkoufznrUsjWr1SGZs96WO3-6hyVlMRxEshxccauI5_lYcIhMkLg",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/2319478_b18c_2.jpg?yD22aaHaHe8W7_LxmwpJPqFD2cIWSgXW7gJvcJW4_s3SdiuMk6o2MaaGhYp9mBWd1FFI0aV07dqkoufznrUsjWr1SGZs96WO3-6hyVlMRxEshxccauI5_lYcIhMkLg"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/3227523_5535_6.jpg?t2lBKWcWpCVA76x7syB6EcCCgVnP62APGG2k6Ge58mFKC8bxkiClur3F-WdhhOeJM2d2EWS0EH5-fCjJI57meCzh24rrclSaQHZ5G1lJjsjIDP9Fyzjt7rCfCfNrDA",
+      "num_reviews": 97,
+      "_class": "course",
+      "num_subscribers": 16490,
+      "badges": [
+        {
+          "_class": "ds_course_badge",
+          "id": "31e9c517375f4adeb1873c9f0f8d8a45",
+          "badge_text": "Highest Rated",
+          "badge_family": "top_rated",
+          "context_info": {
+            "category": {
+              "tracking_object_type": "cat",
+              "url": "/courses/it-and-software/",
+              "title": "IT & Software",
+              "id": 294
+            },
+            "subcategory": null,
+            "label": {
+              "tracking_object_type": "cl",
+              "title": "Technical Support",
+              "topic_channel_url": "/topic/technical-support/",
+              "id": 8008,
+              "url": "/topic/technical-support/",
+              "display_name": "Technical Support"
+            }
+          }
+        }
+      ],
+      "url": "/course/migrating-it-infrastructure-from-windows-7-to-windows-10/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Planning your upgrade project",
+        "Auditing your network environment",
+        "Communicating with departments within your organisation"
+      ],
+      "predictive_score": 5.3938656,
+      "tracking_id": "xjrBHHAXTEOfZHv_VqxNyA",
+      "instructional_level_simple": "Beginner",
+      "visible_instructors": [
+        { "title": "John Courtenay", "display_name": "John Courtenay" }
+      ],
+      "learn_url": "/course/migrating-it-infrastructure-from-windows-7-to-windows-10/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/3227523_5535_6.jpg?t2lBKWcWpCVA76x7syB6EcCCgVnP62APGG2k6Ge58mFKC8bxkiClur3F-WdhhOeJM2d2EWS0EH5-fCjJI57meCzh24rrclSaQHZ5G1lJjsjIDP9Fyzjt7rCfCfNrDA",
+      "content_info": "32 total mins",
+      "id": 3227523,
+      "is_paid": true,
+      "title": "Upgrading Computer Networks from Windows 7 to Windows 10",
+      "relevancy_score": 1459.4191,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/3227523_5535_6.jpg?t2lBKWcWpCVA76x7syB6EcCCgVnP62APGG2k6Ge58mFKC8bxkiClur3F-WdhhOeJM2d2EWS0EH5-fCjJI57meCzh24rrclSaQHZ5G1lJjsjIDP9Fyzjt7rCfCfNrDA",
+      "is_in_user_subscription": false,
+      "headline": "Learn how to plan and complete an upgrade from Windows 7 to Windows 10 for your organisation's <strong>computer</strong> <strong>network</strong>",
+      "rating": 4.659398,
+      "num_published_lectures": 15,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/3227523_5535_6.jpg?t2lBKWcWpCVA76x7syB6EcCCgVnP62APGG2k6Ge58mFKC8bxkiClur3F-WdhhOeJM2d2EWS0EH5-fCjJI57meCzh24rrclSaQHZ5G1lJjsjIDP9Fyzjt7rCfCfNrDA",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/3227523_5535_6.jpg?t2lBKWcWpCVA76x7syB6EcCCgVnP62APGG2k6Ge58mFKC8bxkiClur3F-WdhhOeJM2d2EWS0EH5-fCjJI57meCzh24rrclSaQHZ5G1lJjsjIDP9Fyzjt7rCfCfNrDA"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/1123492_cb34_3.jpg?y_nGXnXF3c63D_Ome3cGXKTeHbxouWMjnN2Anb2E4E8Xs9A-Zc5y5FRqt42GhYXIsYmt99el4p3AoSax44PKUS1P4RLqe3CaoT3E5yF5cUf4vWzvEoaGWeQyZhTG5g",
+      "num_reviews": 70,
+      "_class": "course",
+      "num_subscribers": 1442,
+      "badges": [],
+      "url": "/course/computer-networks-for-beginners/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Recognize the computer network implementation on various levels and explain how does it work;",
+        "Understand the network concept and the need for networks;",
+        "Set up a LAN;"
+      ],
+      "predictive_score": 5.3925815,
+      "tracking_id": "cHPtHi0HREOQpdzGXJ64ug",
+      "instructional_level_simple": "All Levels",
+      "visible_instructors": [
+        { "title": "Sanida Fatic", "display_name": "Sanida Fatic" }
+      ],
+      "learn_url": "/course/computer-networks-for-beginners/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/1123492_cb34_3.jpg?y_nGXnXF3c63D_Ome3cGXKTeHbxouWMjnN2Anb2E4E8Xs9A-Zc5y5FRqt42GhYXIsYmt99el4p3AoSax44PKUS1P4RLqe3CaoT3E5yF5cUf4vWzvEoaGWeQyZhTG5g",
+      "content_info": "41 total mins",
+      "id": 1123492,
+      "is_paid": true,
+      "title": "Computer Networks for Beginners",
+      "relevancy_score": 1527.3217,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/1123492_cb34_3.jpg?y_nGXnXF3c63D_Ome3cGXKTeHbxouWMjnN2Anb2E4E8Xs9A-Zc5y5FRqt42GhYXIsYmt99el4p3AoSax44PKUS1P4RLqe3CaoT3E5yF5cUf4vWzvEoaGWeQyZhTG5g",
+      "is_in_user_subscription": false,
+      "headline": "Simple and easy explanations of <strong>computer</strong> <strong>networking</strong> topics",
+      "rating": 4.0648546,
+      "num_published_lectures": 9,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/1123492_cb34_3.jpg?y_nGXnXF3c63D_Ome3cGXKTeHbxouWMjnN2Anb2E4E8Xs9A-Zc5y5FRqt42GhYXIsYmt99el4p3AoSax44PKUS1P4RLqe3CaoT3E5yF5cUf4vWzvEoaGWeQyZhTG5g",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/1123492_cb34_3.jpg?y_nGXnXF3c63D_Ome3cGXKTeHbxouWMjnN2Anb2E4E8Xs9A-Zc5y5FRqt42GhYXIsYmt99el4p3AoSax44PKUS1P4RLqe3CaoT3E5yF5cUf4vWzvEoaGWeQyZhTG5g"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/1935452_0a85_3.jpg?dMhtidDjy7bOgW0SXuDps0lGnkfG5w2ELDy-67UPtR8LpK2bl6EuaSMLm8P54OLOk5uTH5PPfCQ8Lj4vTyiKGh4ZqR0rA-xKKDf99B0Y9LxakjprggiPorLpYNIcvQ",
+      "num_reviews": 36,
+      "_class": "course",
+      "num_subscribers": 1983,
+      "badges": [],
+      "url": "/course/computer-networking-foundations-packet-switching/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "In-dept understanding on Packet Switching and its core concepts, which is important to understand advance topics in IT Networking",
+        "Step-by-step evolution of communications from Telegraphy to Computer Networks and the Internet",
+        "Strong fundamentals on IP Routing"
+      ],
+      "predictive_score": 5.377023,
+      "tracking_id": "sPSEu8A8TdCfUD59qDBjuw",
+      "instructional_level_simple": "Beginner",
+      "visible_instructors": [
+        {
+          "title": "Mohan Bala Venkata Krishna",
+          "display_name": "Mohan Bala Venkata Krishna"
+        }
+      ],
+      "learn_url": "/course/computer-networking-foundations-packet-switching/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/1935452_0a85_3.jpg?dMhtidDjy7bOgW0SXuDps0lGnkfG5w2ELDy-67UPtR8LpK2bl6EuaSMLm8P54OLOk5uTH5PPfCQ8Lj4vTyiKGh4ZqR0rA-xKKDf99B0Y9LxakjprggiPorLpYNIcvQ",
+      "content_info": "1 total hour",
+      "id": 1935452,
+      "is_paid": true,
+      "title": "IT Networking Fundamentals - Packet Switching",
+      "relevancy_score": 1404.8152,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/1935452_0a85_3.jpg?dMhtidDjy7bOgW0SXuDps0lGnkfG5w2ELDy-67UPtR8LpK2bl6EuaSMLm8P54OLOk5uTH5PPfCQ8Lj4vTyiKGh4ZqR0rA-xKKDf99B0Y9LxakjprggiPorLpYNIcvQ",
+      "is_in_user_subscription": false,
+      "headline": "Learn Packet Switching in IT <strong>Networking</strong> / <strong>Computer</strong> <strong>Networks</strong>, including Character Encoding and basic IP Routing.",
+      "rating": 4.141843,
+      "num_published_lectures": 10,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/1935452_0a85_3.jpg?dMhtidDjy7bOgW0SXuDps0lGnkfG5w2ELDy-67UPtR8LpK2bl6EuaSMLm8P54OLOk5uTH5PPfCQ8Lj4vTyiKGh4ZqR0rA-xKKDf99B0Y9LxakjprggiPorLpYNIcvQ",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/1935452_0a85_3.jpg?dMhtidDjy7bOgW0SXuDps0lGnkfG5w2ELDy-67UPtR8LpK2bl6EuaSMLm8P54OLOk5uTH5PPfCQ8Lj4vTyiKGh4ZqR0rA-xKKDf99B0Y9LxakjprggiPorLpYNIcvQ"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/2077668_18bf_3.jpg?f2d1Fxx6ic_iKBpJJTKagS-Eh-zriACSPQMjpKkR-hIccCLUYLkpCKcxTTNix_pV3a8ajS-yrl6yv-e_9PcCkaeADuYIB_r6viEge_HON4-P1pdfLvOO4_Qnv3RPBg",
+      "num_reviews": 48,
+      "_class": "course",
+      "num_subscribers": 3047,
+      "badges": [],
+      "url": "/course/computer-networks-a-beginners-guide-to-networking/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Computer Networking",
+        "Layer Models - TCP/IP and OSI",
+        "Internet Applications"
+      ],
+      "predictive_score": 5.3768253,
+      "tracking_id": "axEcwfJCRZWzTxuQzdzmGQ",
+      "instructional_level_simple": "All Levels",
+      "visible_instructors": [
+        {
+          "title": "TELCOMA Global 68,000+ Students!",
+          "display_name": "TELCOMA Global 68,000+ Students!"
+        }
+      ],
+      "learn_url": "/course/computer-networks-a-beginners-guide-to-networking/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/2077668_18bf_3.jpg?f2d1Fxx6ic_iKBpJJTKagS-Eh-zriACSPQMjpKkR-hIccCLUYLkpCKcxTTNix_pV3a8ajS-yrl6yv-e_9PcCkaeADuYIB_r6viEge_HON4-P1pdfLvOO4_Qnv3RPBg",
+      "content_info": "5 total hours",
+      "id": 2077668,
+      "is_paid": true,
+      "title": "Computer Networks: A Beginner’s guide to Computer Networking",
+      "relevancy_score": 1528.972,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/2077668_18bf_3.jpg?f2d1Fxx6ic_iKBpJJTKagS-Eh-zriACSPQMjpKkR-hIccCLUYLkpCKcxTTNix_pV3a8ajS-yrl6yv-e_9PcCkaeADuYIB_r6viEge_HON4-P1pdfLvOO4_Qnv3RPBg",
+      "is_in_user_subscription": false,
+      "headline": "This <strong>Computer</strong> <strong>Networks</strong> course covers in detail the important concepts of <strong>Computer</strong> <strong>Networking</strong> along with Certification",
+      "rating": 3.765602,
+      "num_published_lectures": 43,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/2077668_18bf_3.jpg?f2d1Fxx6ic_iKBpJJTKagS-Eh-zriACSPQMjpKkR-hIccCLUYLkpCKcxTTNix_pV3a8ajS-yrl6yv-e_9PcCkaeADuYIB_r6viEge_HON4-P1pdfLvOO4_Qnv3RPBg",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/2077668_18bf_3.jpg?f2d1Fxx6ic_iKBpJJTKagS-Eh-zriACSPQMjpKkR-hIccCLUYLkpCKcxTTNix_pV3a8ajS-yrl6yv-e_9PcCkaeADuYIB_r6viEge_HON4-P1pdfLvOO4_Qnv3RPBg"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/3598876_26e3.jpg?o0VNTIQ3io5Cpw2RCSj_9UUcv3CDbivXNJbF_ffzrMCOGI595LjIN-CLY7F7RjJ5i40vBj5NxWdLYOgoeiQ-Ar5g8nNgLlFViszGlMg4xtOmMIXqK4gYIRGueZs",
+      "num_reviews": 2,
+      "_class": "course",
+      "num_subscribers": 52,
+      "badges": [],
+      "url": "/course/building-a-computer-network-test-lab/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Configure virtual machines, virtual machine network (training is using VMware vSphere but you can use any other virtualization technology)",
+        "Installing Windows operating systems – Win7, Win10, Win2016, Win2019, Active Directory, Group Policy Objects",
+        "Installing Linux operating systems – Ubuntu 18.04, Ubuntu 20.04, CentOS8"
+      ],
+      "predictive_score": 5.373397,
+      "tracking_id": "Gqo8FPRhQEmYIfc9cye8Rw",
+      "instructional_level_simple": "All Levels",
+      "visible_instructors": [
+        { "title": "Balazs Lendvay", "display_name": "Balazs Lendvay" }
+      ],
+      "learn_url": "/course/building-a-computer-network-test-lab/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/3598876_26e3.jpg?o0VNTIQ3io5Cpw2RCSj_9UUcv3CDbivXNJbF_ffzrMCOGI595LjIN-CLY7F7RjJ5i40vBj5NxWdLYOgoeiQ-Ar5g8nNgLlFViszGlMg4xtOmMIXqK4gYIRGueZs",
+      "content_info": "8 total hours",
+      "id": 3598876,
+      "is_paid": true,
+      "title": "Building a Computer Network Test Lab",
+      "relevancy_score": 1482.2971,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/3598876_26e3.jpg?o0VNTIQ3io5Cpw2RCSj_9UUcv3CDbivXNJbF_ffzrMCOGI595LjIN-CLY7F7RjJ5i40vBj5NxWdLYOgoeiQ-Ar5g8nNgLlFViszGlMg4xtOmMIXqK4gYIRGueZs",
+      "is_in_user_subscription": false,
+      "headline": "Setting up a home-lab for testing software, security, attacks, defenses in a <strong>computer</strong> <strong>network</strong>.",
+      "rating": 4.0333333,
+      "num_published_lectures": 126,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/3598876_26e3.jpg?o0VNTIQ3io5Cpw2RCSj_9UUcv3CDbivXNJbF_ffzrMCOGI595LjIN-CLY7F7RjJ5i40vBj5NxWdLYOgoeiQ-Ar5g8nNgLlFViszGlMg4xtOmMIXqK4gYIRGueZs",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/3598876_26e3.jpg?o0VNTIQ3io5Cpw2RCSj_9UUcv3CDbivXNJbF_ffzrMCOGI595LjIN-CLY7F7RjJ5i40vBj5NxWdLYOgoeiQ-Ar5g8nNgLlFViszGlMg4xtOmMIXqK4gYIRGueZs"
+    },
+    {
+      "image_304x171": "https://img-b.udemycdn.com/course/304x171/2353944_cac3_2.jpg?secure=Zs9kkuM0B8LhfjxiP74Bgw%3D%3D%2C1620026547",
+      "num_reviews": 90,
+      "_class": "course",
+      "num_subscribers": 2699,
+      "badges": [],
+      "url": "/course/learn-tcpip-computer-networking-fundamentals/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Describe network fundamentals and build simple LANs",
+        "Explain the OSI model",
+        "Explain how addresses are allocated using DHCP"
+      ],
+      "predictive_score": 5.369266,
+      "tracking_id": "SRBi8_ZESWC-ZpfW93JQVg",
+      "instructional_level_simple": "Beginner",
+      "visible_instructors": [
+        { "title": "Mark Nielsen", "display_name": "Mark Nielsen" }
+      ],
+      "learn_url": "/course/learn-tcpip-computer-networking-fundamentals/learn/",
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/2353944_cac3_2.jpg?secure=Zs9kkuM0B8LhfjxiP74Bgw%3D%3D%2C1620026547",
+      "content_info": "2.5 total hours",
+      "id": 2353944,
+      "is_paid": true,
+      "title": "Learn TCP/IP - Computer Networking fundamentals",
+      "relevancy_score": 1409.7866,
+      "image_100x100": "https://img-b.udemycdn.com/course/100x100/2353944_cac3_2.jpg?secure=Zs9kkuM0B8LhfjxiP74Bgw%3D%3D%2C1620026547",
+      "is_in_user_subscription": false,
+      "headline": "Learn about <strong>networking</strong> and become a <strong>Network</strong> Engineer",
+      "rating": 3.8590362,
+      "num_published_lectures": 21,
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/2353944_cac3_2.jpg?secure=Zs9kkuM0B8LhfjxiP74Bgw%3D%3D%2C1620026547",
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/2353944_cac3_2.jpg?secure=Zs9kkuM0B8LhfjxiP74Bgw%3D%3D%2C1620026547"
+    },
+    {
+      "image_304x171": "https://img-a.udemycdn.com/course/304x171/3792446_1dc5.jpg?lxhJATliAoeiMtnSSI4wRf5RQ6CLZeFczcMEojWUabWz03IhvfOkTx9QcPsCXWsoEV6ABJgnd3bRkEGS1zyO0JbSClvIe3ADPVIPKXJcXrC0i0xYAdkyU6zW2R4",
+      "num_reviews": 4,
+      "_class": "course",
+      "num_subscribers": 40,
+      "badges": [],
+      "url": "/course/techtoolbox/",
+      "is_practice_test_course": false,
+      "objectives_summary": [
+        "Providing further understanding and a general knowledgebase on key IT technologies",
+        "Overview on Servers and Virtualization",
+        "Overiew on key Network devices"
+      ],
+      "predictive_score": 5.3610053,
+      "tracking_id": "7vdPU54uQZCB9EOOPJxoGw",
+      "instructional_level_simple": "All Levels",
+      "visible_instructors": [
+        { "title": "Emilio Aguero", "display_name": "Emilio Aguero" }
+      ],
+      "learn_url": "/course/techtoolbox/learn/",
+      "image_480x270": "https://img-a.udemycdn.com/course/480x270/3792446_1dc5.jpg?lxhJATliAoeiMtnSSI4wRf5RQ6CLZeFczcMEojWUabWz03IhvfOkTx9QcPsCXWsoEV6ABJgnd3bRkEGS1zyO0JbSClvIe3ADPVIPKXJcXrC0i0xYAdkyU6zW2R4",
+      "content_info": "5.5 total hours",
+      "id": 3792446,
+      "is_paid": true,
+      "title": "Intro to Computer Network Administration: IT Fundamentals",
+      "relevancy_score": 1426.8525,
+      "image_100x100": "https://img-a.udemycdn.com/course/100x100/3792446_1dc5.jpg?lxhJATliAoeiMtnSSI4wRf5RQ6CLZeFczcMEojWUabWz03IhvfOkTx9QcPsCXWsoEV6ABJgnd3bRkEGS1zyO0JbSClvIe3ADPVIPKXJcXrC0i0xYAdkyU6zW2R4",
+      "is_in_user_subscription": false,
+      "headline": "Must know skills and technolgies for all IT Professionals!!",
+      "rating": 4.435342,
+      "num_published_lectures": 38,
+      "image_240x135": "https://img-a.udemycdn.com/course/240x135/3792446_1dc5.jpg?lxhJATliAoeiMtnSSI4wRf5RQ6CLZeFczcMEojWUabWz03IhvfOkTx9QcPsCXWsoEV6ABJgnd3bRkEGS1zyO0JbSClvIe3ADPVIPKXJcXrC0i0xYAdkyU6zW2R4",
+      "image_125_H": "https://img-a.udemycdn.com/course/125_H/3792446_1dc5.jpg?lxhJATliAoeiMtnSSI4wRf5RQ6CLZeFczcMEojWUabWz03IhvfOkTx9QcPsCXWsoEV6ABJgnd3bRkEGS1zyO0JbSClvIe3ADPVIPKXJcXrC0i0xYAdkyU6zW2R4"
+    },
+    {
+      "image_304x171": "https://img-b.udemycdn.com/course/304x171/2236206_ba7d.jpg?secure=JBe9rH2k0djZKUkqzRUK4g%3D%3D%2C1620026410",
+      "num_reviews": 3,
+      "_class": "course",
+      "num_subscribers": 5,
+      "badges": [],
+      "url": "/course/fundamentals-of-computer-network-part-1/",
+      "is_practice_test_course": false,
+      "objectives_summary": ["Fundamentals of Computer Network"],
+      "predictive_score": 5.3570776,
+      "tracking_id": "U4BncYLXTFSOKY6D7w3WJw",
+      "instructional_level_simple": "Beginner",
+      "visible_instructors": [
+        { "title": "Dhiraj Gaikwad", "display_name": "Dhiraj Gaikwad" }
+      ],
+      "learn_url": "/course/fundamentals-of-computer-network-part-1/learn/",
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/2236206_ba7d.jpg?secure=JBe9rH2k0djZKUkqzRUK4g%3D%3D%2C1620026410",
+      "content_info": "1 total hour",
+      "id": 2236206,
+      "is_paid": true,
+      "title": "Fundamentals of Computer Network Part 1",
+      "relevancy_score": 1528.8198,
+      "image_100x100": "https://img-b.udemycdn.com/course/100x100/2236206_ba7d.jpg?secure=JBe9rH2k0djZKUkqzRUK4g%3D%3D%2C1620026410",
+      "is_in_user_subscription": false,
+      "headline": "Basics Fundamentals of <strong>Computer</strong> <strong>Network</strong> Part 1",
+      "rating": 4.196508,
+      "num_published_lectures": 7,
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/2236206_ba7d.jpg?secure=JBe9rH2k0djZKUkqzRUK4g%3D%3D%2C1620026410",
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/2236206_ba7d.jpg?secure=JBe9rH2k0djZKUkqzRUK4g%3D%3D%2C1620026410"
+    }
+  ],
+  "debug": null,
+  "search_log": { "phrase": "computer networking", "id": 23514 },
+  "aggregations": [
+    {
+      "allTitle": "All Topics",
+      "key": "courseLabel",
+      "options": [
+        {
+          "count": 24,
+          "key": "courseLabel",
+          "value": 5190,
+          "title": "Computer Network"
+        },
+        {
+          "count": 12,
+          "key": "courseLabel",
+          "value": 6322,
+          "title": "IT Networking Fundamentals"
+        },
+        {
+          "count": 7,
+          "key": "courseLabel",
+          "value": 5044,
+          "title": "Cisco CCNA"
+        },
+        {
+          "count": 5,
+          "key": "courseLabel",
+          "value": 5316,
+          "title": "Cyber Security"
+        },
+        {
+          "count": 4,
+          "key": "courseLabel",
+          "value": 5688,
+          "title": "Ethical Hacking"
+        },
+        {
+          "count": 4,
+          "key": "courseLabel",
+          "value": 6906,
+          "title": "Network Security"
+        },
+        {
+          "count": 3,
+          "key": "courseLabel",
+          "value": 5174,
+          "title": "CompTIA Network+"
+        },
+        {
+          "count": 3,
+          "key": "courseLabel",
+          "value": 6316,
+          "title": "IT Fundamentals"
+        },
+        {
+          "count": 2,
+          "key": "courseLabel",
+          "value": 5082,
+          "title": "Cloud Computing"
+        },
+        {
+          "count": 2,
+          "key": "courseLabel",
+          "value": 5392,
+          "title": "Desktop Support"
+        },
+        {
+          "count": 2,
+          "key": "courseLabel",
+          "value": 7812,
+          "title": "Software Testing"
+        },
+        {
+          "count": 1,
+          "key": "courseLabel",
+          "value": 6326,
+          "title": "IT Security"
+        },
+        { "count": 1, "key": "courseLabel", "value": 6540, "title": "Linux" },
+        {
+          "count": 1,
+          "key": "courseLabel",
+          "value": 6900,
+          "title": "Network Infrastructure"
+        },
+        {
+          "count": 1,
+          "key": "courseLabel",
+          "value": 7064,
+          "title": "Cisco Packet Tracer"
+        },
+        {
+          "count": 1,
+          "key": "courseLabel",
+          "value": 7110,
+          "title": "Penetration Testing"
+        },
+        {
+          "count": 1,
+          "key": "courseLabel",
+          "value": 8008,
+          "title": "Technical Support"
+        },
+        {
+          "count": 1,
+          "key": "courseLabel",
+          "value": 8434,
+          "title": "Wireshark"
+        },
+        {
+          "count": 1,
+          "key": "courseLabel",
+          "value": 11272,
+          "title": "Computer Skills"
+        }
+      ],
+      "title": "Topic"
+    },
+    {
+      "key": "instructional_level",
+      "title": "Level",
+      "all_title": "All Levels",
+      "open": true,
+      "options": [
+        {
+          "count": 43,
+          "key": "instructional_level",
+          "value": "all",
+          "title": "All Levels"
+        },
+        {
+          "count": 43,
+          "key": "instructional_level",
+          "value": "beginner",
+          "title": "Beginner"
+        },
+        {
+          "count": 3,
+          "key": "instructional_level",
+          "value": "expert",
+          "title": "Expert"
+        },
+        {
+          "count": 2,
+          "key": "instructional_level",
+          "value": "intermediate",
+          "title": "Intermediate"
+        }
+      ],
+      "id": "instructional_level"
+    },
+    {
+      "all_title": "All Languages",
+      "key": "language",
+      "options": [
+        { "count": 85, "key": "lang", "value": "en", "title": "English" },
+        { "count": 5, "key": "lang", "value": "hi", "title": "हिन्दी" },
+        { "count": 1, "key": "lang", "value": "ar", "title": "العربية" }
+      ],
+      "title": "Language",
+      "id": "language"
+    },
+    {
+      "key": "price",
+      "title": "Price",
+      "all_title": "All Prices",
+      "open": true,
+      "options": [
+        { "count": 83, "key": "price", "value": "price-paid", "title": "Paid" },
+        { "count": 8, "key": "price", "value": "price-free", "title": "Free" }
+      ],
+      "id": "price"
+    },
+    {
+      "all_title": "All Features",
+      "key": "features",
+      "options": [
+        {
+          "count": 65,
+          "is_feature": true,
+          "value": "has_closed_caption",
+          "key": "features",
+          "title": "Subtitles"
+        },
+        {
+          "count": 41,
+          "is_feature": true,
+          "value": "has_simple_quiz",
+          "key": "features",
+          "title": "Quizzes"
+        },
+        {
+          "count": 0,
+          "is_feature": true,
+          "selected": false,
+          "value": "has_coding_exercises",
+          "title": "Coding Exercises",
+          "key": "features"
+        },
+        {
+          "count": 4,
+          "is_feature": true,
+          "value": "has_practice_test",
+          "key": "features",
+          "title": "Practice Tests"
+        }
+      ],
+      "title": "Features"
+    },
+    {
+      "all_title": "Ratings",
+      "key": "ratings",
+      "options": [
+        { "count": 17, "key": "ratings", "value": "4.5", "title": "4.5 & up" },
+        { "count": 54, "key": "ratings", "value": "4.0", "title": "4.0 & up" },
+        { "count": 71, "key": "ratings", "value": "3.5", "title": "3.5 & up" },
+        { "count": 76, "key": "ratings", "value": "3.0", "title": "3.0 & up" }
+      ],
+      "title": "Ratings",
+      "id": "ratings"
+    },
+    {
+      "all_title": "",
+      "key": "duration",
+      "options": [
+        {
+          "count": 41,
+          "key": "duration",
+          "value": "short",
+          "title": "0-3 Hours"
+        },
+        {
+          "count": 28,
+          "key": "duration",
+          "value": "medium",
+          "title": "3-6 Hours"
+        },
+        {
+          "count": 18,
+          "key": "duration",
+          "value": "long",
+          "title": "6-17 Hours"
+        },
+        {
+          "count": 4,
+          "key": "duration",
+          "value": "extraLong",
+          "title": "17+ Hours"
+        }
+      ],
+      "title": "Video Duration",
+      "id": "duration"
+    },
+    {
+      "key": "closed_captions",
+      "options": [
+        {
+          "count": 65,
+          "key": "closed_captions",
+          "value": "en",
+          "title": "English"
+        },
+        {
+          "count": 4,
+          "key": "closed_captions",
+          "value": "it",
+          "title": "Italiano"
+        },
+        {
+          "count": 2,
+          "key": "closed_captions",
+          "value": "de",
+          "title": "Deutsch"
+        },
+        {
+          "count": 2,
+          "key": "closed_captions",
+          "value": "fr",
+          "title": "Français"
+        },
+        {
+          "count": 2,
+          "key": "closed_captions",
+          "value": "pl",
+          "title": "Polski"
+        },
+        {
+          "count": 2,
+          "key": "closed_captions",
+          "value": "ro",
+          "title": "Română"
+        },
+        {
+          "count": 1,
+          "key": "closed_captions",
+          "value": "es",
+          "title": "Español"
+        },
+        {
+          "count": 1,
+          "key": "closed_captions",
+          "value": "id",
+          "title": "Bahasa Indonesia"
+        },
+        {
+          "count": 1,
+          "key": "closed_captions",
+          "value": "pt",
+          "title": "Português"
+        },
+        {
+          "count": 1,
+          "key": "closed_captions",
+          "value": "th",
+          "title": "ภาษาไทย"
+        }
+      ],
+      "title": "Subtitles",
+      "id": "closed_captions"
+    }
+  ],
+  "pagination": {
+    "total_page": 5,
+    "pages": [
+      {
+        "selected": true,
+        "url": "/api-2.0/search-courses/?q=computer+networking&skip_price=true&src=ukw&p=1",
+        "label": 1
+      },
+      {
+        "selected": false,
+        "url": "/api-2.0/search-courses/?q=computer+networking&skip_price=true&src=ukw&p=2",
+        "label": 2
+      },
+      {
+        "selected": false,
+        "url": "/api-2.0/search-courses/?q=computer+networking&skip_price=true&src=ukw&p=3",
+        "label": 3
+      },
+      {
+        "selected": false,
+        "url": "/api-2.0/search-courses/?q=computer+networking&skip_price=true&src=ukw&p=4",
+        "label": 4
+      },
+      {
+        "selected": false,
+        "url": "/api-2.0/search-courses/?q=computer+networking&skip_price=true&src=ukw&p=5",
+        "label": 5
+      }
+    ],
+    "total_item_count": 91,
+    "current_page": 1,
+    "next": {
+      "selected": false,
+      "url": "/api-2.0/search-courses/?q=computer+networking&skip_price=true&src=ukw&p=2",
+      "label": "Next"
+    }
+  },
+  "suggestion": {},
+  "original_phrase": null,
+  "sort_options": {
+    "options": [
+      {
+        "key": "most-reviewed",
+        "url": "/api-2.0/search-courses/?q=computer+networking&skip_price=true&src=ukw&sort=most-reviewed",
+        "label": "Most Reviewed"
+      },
+      {
+        "key": "highest-rated",
+        "url": "/api-2.0/search-courses/?q=computer+networking&skip_price=true&src=ukw&sort=highest-rated",
+        "label": "Highest Rated"
+      },
+      {
+        "key": "newest",
+        "url": "/api-2.0/search-courses/?q=computer+networking&skip_price=true&src=ukw&sort=newest",
+        "label": "Newest"
+      }
+    ],
+    "current_sort_option": {
+      "key": "relevance",
+      "url": "/api-2.0/search-courses/?q=computer+networking&skip_price=true&src=ukw&sort=relevance",
+      "label": "Most Relevant"
+    }
+  },
+  "analyzed_query": null,
+  "query": null,
+  "detected_language": null,
+  "course_labels": null,
+  "topic": null,
+  "search_tracking_id": "ralnPV_wQyeKWgzpXFQ5Dg"
+}

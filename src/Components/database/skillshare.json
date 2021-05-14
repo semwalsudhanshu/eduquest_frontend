@@ -1,0 +1,348 @@
+{
+  "data": {
+    "search": {
+      "totalCount": 239,
+      "searchId": "99b6622da02acf1843ef0da14e60ccb2",
+      "pageInfo": {
+        "startCursor": "0",
+        "endCursor": "14",
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "__typename": "PageInfo"
+      },
+      "edges": [
+        {
+          "cursor": "0",
+          "node": {
+            "id": "eyJpZCI6IjMzODY0NiIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "1530992729",
+            "title": "Introduction to NodeJS: Back-End JavaScript",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/fc71e277ca73907eba2b577afd843c44/original",
+            "durationInSeconds": 2151,
+            "studentCount": 602,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6ODcxODE2MiwidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "Keegan Francis",
+              "username": "8743133",
+              "vanityUsername": null,
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "1",
+          "node": {
+            "id": "eyJpZCI6IjI0NzA2OCIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "187976462",
+            "title": "The Node.js Master Class - No Frameworks, No NPM, No Dependencies",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/a57f94195b587d5700eda8dbdcc00404/original",
+            "durationInSeconds": 56682,
+            "studentCount": 3260,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6NDI0NDk3MywidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "Pirple . com",
+              "username": "7653916",
+              "vanityUsername": null,
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "2",
+          "node": {
+            "id": "eyJpZCI6IjI2MDM2MCIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "1152066536",
+            "title": "Let's build a simple API in Node.js!",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/c9768ea7cada6dc81f8119488c54f038/original",
+            "durationInSeconds": 1501,
+            "studentCount": 496,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6NDk0ODk1NywidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "Ethan Davis",
+              "username": "6236598",
+              "vanityUsername": "ethandavis",
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "3",
+          "node": {
+            "id": "eyJpZCI6IjE1MTUyNCIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "1128600998",
+            "title": "MongooseJS Essentials - Learn MongoDB for Node.js",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/5092479365001/original",
+            "durationInSeconds": 2538,
+            "studentCount": 413,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6MTI2Nzc2NywidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "Patrick Schroeder",
+              "username": "2868981",
+              "vanityUsername": "jswiz",
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "4",
+          "node": {
+            "id": "eyJpZCI6IjI3MDgzOCIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "1831639742",
+            "title": "Developing a Web App with the Power of Node.js",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/f9df4f4d0dbd3cdd7bda53ace196a506/original",
+            "durationInSeconds": 14246,
+            "studentCount": 390,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6NTY0NjQzMSwidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "Guy Yachdav",
+              "username": "9464408",
+              "vanityUsername": "dreamteam",
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "5",
+          "node": {
+            "id": "eyJpZCI6IjM3NTQxNCIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "517827370",
+            "title": "Create a Web App with React, MongoDB, Express and Nodejs",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/5b068dc60730142c882ac4e6a884eb0c/original",
+            "durationInSeconds": 56114,
+            "studentCount": 366,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6ODY3NzgwMywidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "Raymundo CH",
+              "username": "2040053",
+              "vanityUsername": null,
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "6",
+          "node": {
+            "id": "eyJpZCI6IjI2NzI0MiIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "1983349524",
+            "title": "Become A Web Developer - Part 22: Node.js",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/334927ead2c2a7a59f4043a39c735fc5/original",
+            "durationInSeconds": 6218,
+            "studentCount": 315,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6NDQxNDY4MywidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "Andrei Neagoie",
+              "username": "3152906",
+              "vanityUsername": "aneagoie",
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "7",
+          "node": {
+            "id": "eyJpZCI6IjM1Mjk0MiIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "237717740",
+            "title": "Node.js REST API with Express & MongoDB - Solid Architecture",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/cc0e7ced0305e33f532674da749ebd25/original",
+            "durationInSeconds": 11323,
+            "studentCount": 260,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6NjgzMjU0MSwidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "RapidDev Pro",
+              "username": "3744183",
+              "vanityUsername": "rapiddevpro",
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "8",
+          "node": {
+            "id": "eyJpZCI6IjI5OTUzOCIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "1470929868",
+            "title": "Step by step, super simple E-Commerce with Node.js, Stripe payments and React interface",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/8a291bb597581a60c3b0ac454f777b32/original",
+            "durationInSeconds": 5642,
+            "studentCount": 248,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6NzAzODAxNSwidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "Lorenzo Sfarra",
+              "username": "4074664",
+              "vanityUsername": "lrnzsfr",
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "9",
+          "node": {
+            "id": "eyJpZCI6IjI2NTY3OSIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "1472805743",
+            "title": "Building Node.js APIs with Express and MongoDB",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/c2f8ad0853ac033d0d6e824f56d04692/original",
+            "durationInSeconds": 15465,
+            "studentCount": 171,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6Mzg4NjYwNywidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "Flavio Oliveira",
+              "username": "4162297",
+              "vanityUsername": "foli",
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "10",
+          "node": {
+            "id": "eyJpZCI6IjIzODg2NyIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "1666951407",
+            "title": "NodeJS - Getting Started",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/5760235151001/1280-720",
+            "durationInSeconds": 3231,
+            "studentCount": 169,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6NDI5NTY5MCwidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "Ajay Srinivasa",
+              "username": "2992967",
+              "vanityUsername": null,
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "11",
+          "node": {
+            "id": "eyJpZCI6IjM1NjY3NSIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "294276149",
+            "title": "GraphQL Apollo Server with Node.js, MongoDB - GraphQL API",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/ec8fa8db45aa58da4bad1fe6d4b12b7e/original",
+            "durationInSeconds": 15651,
+            "studentCount": 158,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6NjgzMjU0MSwidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "RapidDev Pro",
+              "username": "3744183",
+              "vanityUsername": "rapiddevpro",
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "12",
+          "node": {
+            "id": "eyJpZCI6IjI2ODAwMCIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "1051613788",
+            "title": "Build and Deploy a Web Server with Node.js and Heroku",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/36f2e8ade97e98651d7a94675ae75e3b/original",
+            "durationInSeconds": 1275,
+            "studentCount": 157,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6MjE4MTIxMywidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "Shivangi Das",
+              "username": "9468409",
+              "vanityUsername": null,
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "13",
+          "node": {
+            "id": "eyJpZCI6IjI1MDM3NSIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "317991038",
+            "title": "A Beginner's Guide to Publishing a Personal Website in Node.js",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/0662aec00be10655f4780e8c287a6cd2/original",
+            "durationInSeconds": 1250,
+            "studentCount": 135,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6NDcwMzM1NiwidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "Chris Arnott",
+              "username": "9001011",
+              "vanityUsername": null,
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        },
+        {
+          "cursor": "14",
+          "node": {
+            "id": "eyJpZCI6IjIzODIzMyIsInR5cGUiOiJDbGFzcyJ9",
+            "sku": "461321962",
+            "title": "NodeJS API Development with Express MongoDB and Mongoose",
+            "largeCoverUrl": "https://static.skillshare.com/uploads/video/thumbnails/5758271784001/1280-720",
+            "durationInSeconds": 11260,
+            "studentCount": 128,
+            "badges": [],
+            "teacher": {
+              "id": "eyJpZCI6NDI5NTY5MCwidHlwZSI6IlRlYWNoZXIifQ==",
+              "name": "Ajay Srinivasa",
+              "username": "2992967",
+              "vanityUsername": null,
+              "__typename": "Teacher"
+            },
+            "viewer": null,
+            "__typename": "Class"
+          },
+          "__typename": "SearchResultEdgeCustom"
+        }
+      ],
+      "__typename": "SearchResultItemConnection"
+    }
+  }
+}
