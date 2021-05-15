@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "35.224.242.211:5000";
 
 export const USER_NAME_SESSION_ATTRIBUTE_NAME = "authenticatedUser";
 export const USER_NAME_SESSION_ATTRIBUTE_TOKEN = "authenticatedUserToken";
